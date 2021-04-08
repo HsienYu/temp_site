@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://hsienyu.github.io/temp_site/afterlife.html",
+            "url": "https://hsienyu.github.io/temp_site/afterlife.html",
+            "title": "Afterlife",
+            "author": {
+                "name": "chenghsienyu"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-08T22:52:20+08:00",
+            "date_modified": "2021-04-08T22:52:20+08:00"
+        },
+        {
             "id": "https://hsienyu.github.io/temp_site/cv-and-bio.html",
             "url": "https://hsienyu.github.io/temp_site/cv-and-bio.html",
             "title": "CV &amp; BIO",

@@ -3,12 +3,24 @@
     <title>HsienYu Cheng</title>
     <link href="https://hsienyu.github.io/temp_site/feed.xml" rel="self" />
     <link href="https://hsienyu.github.io/temp_site" />
-    <updated>2021-04-08T22:11:09+08:00</updated>
+    <updated>2021-04-08T22:52:20+08:00</updated>
     <author>
         <name>chenghsienyu</name>
     </author>
     <id>https://hsienyu.github.io/temp_site</id>
 
+    <entry>
+        <title>Afterlife</title>
+        <author>
+            <name>chenghsienyu</name>
+        </author>
+        <link href="https://hsienyu.github.io/temp_site/afterlife.html"/>
+        <id>https://hsienyu.github.io/temp_site/afterlife.html</id>
+
+        <updated>2021-04-08T22:52:20+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>CV &amp; BIO</title>
         <author>

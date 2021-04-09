@@ -3,7 +3,7 @@
     <title>HsienYu Cheng</title>
     <link href="https://hsienyu.github.io/temp_site/feed.xml" rel="self" />
     <link href="https://hsienyu.github.io/temp_site" />
-    <updated>2021-04-09T21:57:51+08:00</updated>
+    <updated>2021-04-09T22:41:40+08:00</updated>
     <author>
         <name>chenghsienyu</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://hsienyu.github.io/temp_site/contact.html"/>
         <id>https://hsienyu.github.io/temp_site/contact.html</id>
 
-        <updated>2021-04-09T21:57:51+08:00</updated>
+        <updated>2021-04-09T22:41:40+08:00</updated>
             <summary>
                 <![CDATA[
                     e-mail : chenghsienyu@aim.com Skype : chenghsienyu Github: HsienYu
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="">e-mail : chenghsienyu@aim.com</p>
+                <p class="">e-mail : <a href="mailto:chenghsienyu@aim.com">chenghsienyu@aim.com</a></p>
 <p class="">Skype : chenghsienyu</p>
 <p class="">Github: HsienYu</p>
             ]]>

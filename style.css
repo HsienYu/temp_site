@@ -26,6 +26,13 @@ a:hover {
   color: #333;
   text-decoration: none;
 }
+
+footer {
+  position: fixed;
+  height: 10%;
+  bottom: 0;
+}
+
 @-webkit-keyframes argh-my-eyes {
   0% {
     background-color: #fff;

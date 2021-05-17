@@ -1,0 +1,81 @@
+<style>
+    body {
+      text-align: center;
+      padding: 150px;
+      -webkit-animation: argh-my-eyes 100ms infinite;
+      -moz-animation: argh-my-eyes 100ms infinite;
+      animation: argh-my-eyes 100ms infinite;
+    }
+    h1 {
+      font-size: 21px;
+    }
+    body {
+      font: 16px Helvetica, sans-serif;
+      color: #333;
+    }
+    article {
+      display: block;
+      text-align: left;
+      width: 650px;
+      margin: 0 auto;
+    }
+    a {
+      color: #dc8100;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #333;
+      text-decoration: none;
+    }
+    @-webkit-keyframes argh-my-eyes {
+      0% {
+        background-color: #fff;
+      }
+      49% {
+        background-color: #fff;
+      }
+      50% {
+        background-color: #000;
+      }
+      99% {
+        background-color: #000;
+      }
+      100% {
+        background-color: #fff;
+      }
+    }
+    @-moz-keyframes argh-my-eyes {
+      0% {
+        background-color: #fff;
+      }
+      49% {
+        background-color: #fff;
+      }
+      50% {
+        background-color: #000;
+      }
+      99% {
+        background-color: #000;
+      }
+      100% {
+        background-color: #fff;
+      }
+    }
+    @keyframes argh-my-eyes {
+      0% {
+        background-color: #fff;
+      }
+      49% {
+        background-color: #fff;
+      }
+      50% {
+        background-color: #000;
+      }
+      99% {
+        background-color: #000;
+      }
+      100% {
+        background-color: #fff;
+      }
+    }
+  </style>

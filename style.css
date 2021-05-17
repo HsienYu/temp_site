@@ -9,7 +9,7 @@ h1 {
   font-size: 21px;
 }
 body {
-  font: 16px Helvetica, sans-serif;
+  font: 11px Helvetica, sans-serif;
   color: #333;
 }
 a {
@@ -23,10 +23,25 @@ a:hover {
 
 footer {
   position: fixed;
-  height: 10%;
+  height: 3%;
   width: 100%;
   left: 0;
   bottom: 0;
+  text-align: left;
+  background-color: black;
+}
+footer a {
+  color: grey;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: rgb(213, 128, 92);
+  text-decoration: underline;
+}
+
+footer p {
+  font: 11px Helvetica, sans-serif;
 }
 
 @-webkit-keyframes argh-my-eyes {

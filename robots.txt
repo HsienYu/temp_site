@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://hsienyu.github.io/temp_site/sitemap.xml
+Disallow: /

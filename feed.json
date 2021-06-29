@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://chenghsienyu.com/zheng-jian-zhao-pai-she-zhi-nan/",
+            "url": "https://chenghsienyu.com/zheng-jian-zhao-pai-she-zhi-nan/",
+            "title": "證件照拍攝指南",
+            "summary": "2021 證件照拍攝指南 Photo of ID 陳珊妮 X 鄭先喻 X 談宗藩 ｜狠配 Very Mixer ",
+            "content_html": "<p>2021</p>\n<p class=\"entry-title\"><strong>證件照拍攝指南</strong></p>\n<p>Photo of ID</p>\n<p><em>陳珊妮 X 鄭先喻 X 談宗藩 ｜狠配 Very Mixer</em></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1709\" height=\"806\" src=\"https://www.youtube.com/embed/d1hRKYYBwIk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1709\" height=\"806\" src=\"https://www.youtube.com/embed/9vR1rIQLcG8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://chenghsienyu.com/media/posts/36/Hen-Pei.jpeg",
+            "author": {
+                "name": "HsienYu Cheng｜鄭先喻"
+            },
+            "tags": [
+                   "Works",
+                   "2021"
+            ],
+            "date_published": "2021-06-29T21:02:27+08:00",
+            "date_modified": "2021-06-29T21:02:27+08:00"
+        },
+        {
             "id": "https://chenghsienyu.com/taipei-robot-man-20-infodemic/",
             "url": "https://chenghsienyu.com/taipei-robot-man-20-infodemic/",
             "title": "Taipei Robot Man 2.0: Infodemic",
@@ -162,23 +179,6 @@
             ],
             "date_published": "2021-06-29T19:06:11+08:00",
             "date_modified": "2021-06-29T19:06:11+08:00"
-        },
-        {
-            "id": "https://chenghsienyu.com/dish-on-fish/",
-            "url": "https://chenghsienyu.com/dish-on-fish/",
-            "title": "Dish on Fish",
-            "summary": " 2014 [ Dish on Fish ] 盤中魚 plate, servo motor, wire, led light size 42cm (R) 3cm (H) Brief&hellip;",
-            "content_html": "<div class=\"page\" title=\"Page 33\">\n<div class=\"section\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>2014</p>\n<p>[ Dish on Fish ] 盤中魚<br>plate, servo motor, wire, led</p>\n<p>light size 42cm (R) 3cm (H)</p>\n<p>Brief :</p>\n<pre>Copy Series - (1)\n</pre>\n<p>This series of works are presented some classical works of other artists bydifferentmedia,\"dishonfish\"isaworkbycopying \"fishondish\" from Goang-Ming Yuan.</p>\n<p>[ Dish on Fish ] is a robotic installation that is a plate will move constantly on the floor.</p>\n</div>\n</div>\n</div>\n</div>",
-            "image": "https://chenghsienyu.com/media/posts/26/dof.png",
-            "author": {
-                "name": "HsienYu Cheng｜鄭先喻"
-            },
-            "tags": [
-                   "Works",
-                   "2014"
-            ],
-            "date_published": "2021-06-29T19:04:52+08:00",
-            "date_modified": "2021-06-29T19:04:52+08:00"
         }
     ]
 }

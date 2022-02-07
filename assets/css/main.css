@@ -32,6 +32,7 @@ header {
   padding: 3px;
   position: fixed;
   right: 0px;
+  z-index: 9999;
 }
 
 main {
@@ -177,4 +178,14 @@ hr {
 .has-submenu {
 }
 .active-parent {
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  #navbar {
+    width: 100%;
+  }
+  main {
+    left: 0;
+  }
 }

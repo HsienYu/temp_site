@@ -34,7 +34,7 @@ window.onscroll = function() {
       document.getElementById("navbar").style.left = "0";
     } else {
       document.getElementById("navbar").style.left = "-30%";
-    }
   }
   prevScrollpos = currentScrollPos;
 }
+};

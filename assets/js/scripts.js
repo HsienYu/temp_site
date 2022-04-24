@@ -36,10 +36,10 @@ window.onscroll = function () {
   console.log(currentScrollPos);
   if (device == "xs") {
     console.log("mobile");
-    if (prevScrollpos > currentScrollPos) {
+    if (currentScrollPos < 100) {
       navbar.style.left = "0";
     } else {
-      navbar.style.left = "-25%";
+      navbar.style.left = "-70%";
     }
   } else {
     if (prevScrollpos > currentScrollPos) {

@@ -2,28 +2,6 @@
 
 /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
 var prevScrollpos = window.pageYOffset;
-var navbar = document.getElementById("navbar");
-var nav_prevScrollpos = navbar.pageYOffset;
-
-navbar.onscroll = function () {
-  var currentScrollPos = navbar.pageYOffset;
-  console.log(navbar.innerWidth);
-  if (device == "xs") {
-    console.log("mobile");
-    if (nav_prevScrollpos >= currentScrollPos) {
-      document.getElementById("navbar").style.left = "0";
-    } else {
-      document.getElementById("navbar").style.left = "-100%";
-    }
-  } else {
-    if (nav_prevScrollpos > currentScrollPos) {
-      document.getElementById("navbar").style.left = "0";
-    } else {
-      document.getElementById("navbar").style.left = "-30%";
-    }
-    nav_prevScrollpos = currentScrollPos;
-  }
-}
 
 
 var getBrowserWidth = function () {
@@ -43,21 +21,31 @@ var getBrowserWidth = function () {
 };
 var device = getBrowserWidth();
 
+window.onload = function () {
+  if (device == "xs") {
+    // document.getElementById("navbar").style.width = "70%";
+  } else {
+    // document.getElementById("navbar").style.width = "100%";
+  }
+};
+
 window.onscroll = function () {
   var currentScrollPos = window.pageYOffset;
+  var navbar = document.getElementById("navbar");
   console.log(window.innerWidth);
+  console.log(currentScrollPos);
   if (device == "xs") {
     console.log("mobile");
     if (prevScrollpos > currentScrollPos) {
-      document.getElementById("navbar").style.left = "0";
+      navbar.style.left = "0";
     } else {
-      document.getElementById("navbar").style.left = "-100%";
+      navbar.style.left = "-100%";
     }
   } else {
     if (prevScrollpos > currentScrollPos) {
-      document.getElementById("navbar").style.left = "0";
+      navbar.style.left = "0";
     } else {
-      document.getElementById("navbar").style.left = "-30%";
+      navbar.style.left = "-15%";
     }
     prevScrollpos = currentScrollPos;
   }

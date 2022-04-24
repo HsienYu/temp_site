@@ -2,6 +2,29 @@
 
 /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
 var prevScrollpos = window.pageYOffset;
+var navbar = document.getElementById("navbar");
+var nav_prevScrollpos = navbar.pageYOffset;
+
+navbar.onscroll = function () {
+  var currentScrollPos = navbar.pageYOffset;
+  console.log(navbar.innerWidth);
+  if (device == "xs") {
+    console.log("mobile");
+    if (nav_prevScrollpos >= currentScrollPos) {
+      document.getElementById("navbar").style.left = "0";
+    } else {
+      document.getElementById("navbar").style.left = "-100%";
+    }
+  } else {
+    if (nav_prevScrollpos > currentScrollPos) {
+      document.getElementById("navbar").style.left = "0";
+    } else {
+      document.getElementById("navbar").style.left = "-30%";
+    }
+    nav_prevScrollpos = currentScrollPos;
+  }
+}
+
 
 var getBrowserWidth = function () {
   if (window.innerWidth < 768) {
@@ -28,7 +51,7 @@ window.onscroll = function () {
     if (prevScrollpos > currentScrollPos) {
       document.getElementById("navbar").style.left = "0";
     } else {
-      document.getElementById("navbar").style.left = "-90%";
+      document.getElementById("navbar").style.left = "-100%";
     }
   } else {
     if (prevScrollpos > currentScrollPos) {
@@ -39,28 +62,3 @@ window.onscroll = function () {
     prevScrollpos = currentScrollPos;
   }
 };
-
-function handleStart(evt) {
-  evt.preventDefault();
-  log('touchstart.');
-  const el = document.getElementById('canvas');
-  const touches = evt.changedTouches;
-
-  for (let i = 0; i < touches.length; i++) {
-    log(`touchstart: ${i}.`);
-    document.getElementById("navbar").style.left = "-90%";
-
-  }
-}
-
-function startup() {
-  const el = document.getElementById('navbar');
-  el.addEventListener('touchstart', handleStart);
-  el.addEventListener('touchend', handleEnd);
-  el.addEventListener('touchcancel', handleCancel);
-  el.addEventListener('touchmove', handleMove);
-  log('Initialized.');
-}
-
-document.addEventListener("DOMContentLoaded", startup);
-handleStart();

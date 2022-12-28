@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>HsienYu Cheng ｜ 鄭先喻 </title>
     <link href="https://chenghsienyu.com/feed.xml" rel="self" />
     <link href="https://chenghsienyu.com" />
-    <updated>2021-07-30T23:31:31+08:00</updated>
+    <updated>2021-07-30T17:31:31+02:00</updated>
     <author>
         <name>HsienYu Cheng｜鄭先喻</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://chenghsienyu.com/review-and-news/"/>
         <id>https://chenghsienyu.com/review-and-news/</id>
 
-        <updated>2021-07-30T23:31:31+08:00</updated>
+        <updated>2021-07-30T17:31:31+02:00</updated>
             <summary>
                 <![CDATA[
-                    鄭先喻個展「injector after Null」：It's the song, not the singer 《證件照拍攝指南》中的身份與主體生成問題 Transitions, Articulated and Experienced 鄭先喻《來生 Afterlife Ver. 1.0》到《台北機電人 2.0：訊息瘟疫》——殺死越多，來生越多 不再超現實的夢境：鄭先喻《hijacker｛，｝》中的現實 To Think and Imagine in the&hellip;
+                    鄭先喻個展「injector after Null」：It's the song, not the singer 《證件照拍攝指南》中的身份與主體生成問題 Transitions, Articulated and Experienced 鄭先喻《來生 Afterlife Ver. 1.0》到《台北機電人 2.0：訊息瘟疫》——殺死越多，來生越多 不再超現實的夢境：鄭先喻《hijacker｛，｝》中的現實 To&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -46,10 +46,11 @@
         </author>
         <link href="https://chenghsienyu.com/zheng-jian-zhao-pai-she-zhi-nan/"/>
         <id>https://chenghsienyu.com/zheng-jian-zhao-pai-she-zhi-nan/</id>
+        <media:content url="https://chenghsienyu.com/media/posts/36/Hen-Pei.jpeg" medium="image" />
             <category term="Works"/>
             <category term="2021"/>
 
-        <updated>2021-07-11T16:00:51+08:00</updated>
+        <updated>2021-07-11T10:00:51+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/36/Hen-Pei.jpeg" alt="" />
@@ -58,7 +59,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chenghsienyu.com/media/posts/36/Hen-Pei.jpeg" alt="" />
+                    <p><img src="https://chenghsienyu.com/media/posts/36/Hen-Pei.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>2021</p>
 <p class="entry-title"><strong>證件照拍攝指南</strong></p>
 <p>Photo of ID</p>
@@ -76,19 +77,20 @@
         </author>
         <link href="https://chenghsienyu.com/taipei-robot-man-20-infodemic/"/>
         <id>https://chenghsienyu.com/taipei-robot-man-20-infodemic/</id>
+        <media:content url="https://chenghsienyu.com/media/posts/35/trm2.png" medium="image" />
             <category term="Works"/>
             <category term="2020"/>
 
-        <updated>2021-06-29T20:19:45+08:00</updated>
+        <updated>2021-06-29T14:19:45+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/35/trm2.png" alt="" />
-                    Taipei Robot Man 2.0: Infodemic 台北機電人2.0：訊息瘟疫 TingTong Chang張碩尹、HsienYu Cheng鄭先喻、廖銘和（Dino） “Taipei Robot Man 2.0: Infodemic” was a co-project created by Ting-Tong Chang, Hsien-Yu Cheng and Ming-ho&hellip;
+                    Taipei Robot Man 2.0: Infodemic 台北機電人2.0：訊息瘟疫 TingTong Chang張碩尹、HsienYu Cheng鄭先喻、廖銘和（Dino） “Taipei Robot Man 2.0: Infodemic” was a co-project created by Ting-Tong&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chenghsienyu.com/media/posts/35/trm2.png" alt="" />
+                    <p><img src="https://chenghsienyu.com/media/posts/35/trm2.png" class="type:primaryImage" alt="" /></p>
                 <p><strong>Taipei Robot Man 2.0: Infodemic</strong></p>
 <p><strong>台北機電人2.0：訊息瘟疫 </strong></p>
 <p><em><a href="https://tingtongchang.co.uk" target="_blank" rel="noopener noreferrer">TingTong Chang張碩尹</a>、<a href="https://chenghsienyu.com">HsienYu Cheng鄭先喻</a>、廖銘和（Dino）</em></p>
@@ -128,19 +130,20 @@
         </author>
         <link href="https://chenghsienyu.com/revenge-scenes/"/>
         <id>https://chenghsienyu.com/revenge-scenes/</id>
+        <media:content url="https://chenghsienyu.com/media/posts/34/rv1.png" medium="image" />
             <category term="Works"/>
             <category term="2021"/>
 
-        <updated>2021-06-29T20:11:18+08:00</updated>
+        <updated>2021-06-29T14:11:18+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/34/rv1.png" alt="" />
-                    2021 Revenge Scenes Performance/mobile devices interaction/live-streaming 蘇匯宇Su Hui-Yu and 鄭先喻Cheng Hsien-Yu Revenge Scenes by artists Su Hui-Yu and Cheng Hsien-Yu can be considered as a&hellip;
+                    2021 Revenge Scenes Performance/mobile devices interaction/live-streaming 蘇匯宇Su Hui-Yu and 鄭先喻Cheng Hsien-Yu Revenge Scenes by artists Su Hui-Yu and Cheng Hsien-Yu&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chenghsienyu.com/media/posts/34/rv1.png" alt="" />
+                    <p><img src="https://chenghsienyu.com/media/posts/34/rv1.png" class="type:primaryImage" alt="" /></p>
                 <p>2021</p>
 <p><strong><i>Revenge Scenes</i></strong></p>
 <p class="elementor-heading-title elementor-size-default"><em>Performance/mobile devices interaction/live-streaming</em></p>
@@ -166,19 +169,20 @@
         </author>
         <link href="https://chenghsienyu.com/heartcoke/"/>
         <id>https://chenghsienyu.com/heartcoke/</id>
+        <media:content url="https://chenghsienyu.com/media/posts/33/h2.png" medium="image" />
             <category term="Works"/>
             <category term="2011 ~"/>
 
-        <updated>2021-06-29T19:48:56+08:00</updated>
+        <updated>2021-06-29T13:48:56+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/33/h2.png" alt="" />
-                    2009 [ heartcoke ] recycled E-waste, computer, custom software, sensor size 24cm(R) * 138cm(H) Brief : It can sense vital sign from audience and transfer&hellip;
+                    2009 [ heartcoke ] recycled E-waste, computer, custom software, sensor size 24cm(R) * 138cm(H) Brief : It can sense vital&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chenghsienyu.com/media/posts/33/h2.png" alt="" />
+                    <p><img src="https://chenghsienyu.com/media/posts/33/h2.png" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 41">
 <div class="section">
 <div class="layoutArea">
@@ -202,19 +206,20 @@
         </author>
         <link href="https://chenghsienyu.com/portrait-2011/"/>
         <id>https://chenghsienyu.com/portrait-2011/</id>
+        <media:content url="https://chenghsienyu.com/media/posts/32/portrait1-1.jpg" medium="image" />
             <category term="Works"/>
             <category term="2011 ~"/>
 
-        <updated>2021-06-29T19:48:04+08:00</updated>
+        <updated>2021-06-29T13:48:04+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/32/portrait1-1.jpg" alt="" />
-                    2011 [ portrait 2011 ] 肖像2011 recycled E-waste, wood, bottle, plastic tube, motor, micro controller, sensor, pump, custom electronic circuit size 20cm(L) * 8cm(W) *&hellip;
+                    2011 [ portrait 2011 ] 肖像2011 recycled E-waste, wood, bottle, plastic tube, motor, micro controller, sensor, pump, custom electronic circuit&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chenghsienyu.com/media/posts/32/portrait1-1.jpg" alt="" />
+                    <p><img src="https://chenghsienyu.com/media/posts/32/portrait1-1.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 40">
 <div class="section">
 <div class="layoutArea">
@@ -245,19 +250,20 @@
         </author>
         <link href="https://chenghsienyu.com/afterlife/"/>
         <id>https://chenghsienyu.com/afterlife/</id>
+        <media:content url="https://chenghsienyu.com/media/posts/31/Afterlife-Ver_1.0_.png" medium="image" />
             <category term="Works"/>
             <category term="2011 ~"/>
 
-        <updated>2021-06-29T19:46:24+08:00</updated>
+        <updated>2021-06-29T13:46:24+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/31/Afterlife-Ver_1.0_.png" alt="" />
-                    2011 [ Afterlife ver. 1.0 ] 生命值量化1.0 recycled E-waste, custom electronic circuit, micro controller, lamp, steels, monitor size 36cm(L) * 20cm(W) * 29cm(H) _ hight&hellip;
+                    2011 [ Afterlife ver. 1.0 ] 生命值量化1.0 recycled E-waste, custom electronic circuit, micro controller, lamp, steels, monitor size 36cm(L) *&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chenghsienyu.com/media/posts/31/Afterlife-Ver_1.0_.png" alt="" />
+                    <p><img src="https://chenghsienyu.com/media/posts/31/Afterlife-Ver_1.0_.png" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 39">
 <div class="section">
 <div class="layoutArea">
@@ -287,19 +293,20 @@
         </author>
         <link href="https://chenghsienyu.com/afterlife-ver-20/"/>
         <id>https://chenghsienyu.com/afterlife-ver-20/</id>
+        <media:content url="https://chenghsienyu.com/media/posts/30/Afterlife-Ver_2.0_0.jpg" medium="image" />
             <category term="Works"/>
             <category term="2013"/>
 
-        <updated>2021-06-29T19:14:58+08:00</updated>
+        <updated>2021-06-29T13:14:58+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/30/Afterlife-Ver_2.0_0.jpg" alt="" />
-                    2013 [ Afterlife ver. 2.0 ] 生命值量化2.0 recycled E-waste, custom electronic circuit, micro controller, lamp, steels, lcd monitor size 46cm(L) * 32cm(W) * 24cm(H) _&hellip;
+                    2013 [ Afterlife ver. 2.0 ] 生命值量化2.0 recycled E-waste, custom electronic circuit, micro controller, lamp, steels, lcd monitor size 46cm(L)&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chenghsienyu.com/media/posts/30/Afterlife-Ver_2.0_0.jpg" alt="" />
+                    <p><img src="https://chenghsienyu.com/media/posts/30/Afterlife-Ver_2.0_0.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 38">
 <div class="section">
 <div class="layoutArea">
@@ -326,19 +333,20 @@
         </author>
         <link href="https://chenghsienyu.com/portrait-2013-douglas-engelbart/"/>
         <id>https://chenghsienyu.com/portrait-2013-douglas-engelbart/</id>
+        <media:content url="https://chenghsienyu.com/media/posts/29/portrait2013_douglas_2.png" medium="image" />
             <category term="Works"/>
             <category term="2013"/>
 
-        <updated>2021-06-29T19:13:10+08:00</updated>
+        <updated>2021-06-29T13:13:10+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/29/portrait2013_douglas_2.png" alt="" />
-                    2013 [ portrait 2013 - Douglas Engelbart ] 肖像2013_ secondhand computer mice, custom computer operating system, custom usb hub size variable Brief : [ portrait&hellip;
+                    2013 [ portrait 2013 - Douglas Engelbart ] 肖像2013_ secondhand computer mice, custom computer operating system, custom usb hub size&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chenghsienyu.com/media/posts/29/portrait2013_douglas_2.png" alt="" />
+                    <p><img src="https://chenghsienyu.com/media/posts/29/portrait2013_douglas_2.png" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 36">
 <div class="section">
 <div class="layoutArea">
@@ -377,19 +385,20 @@
         </author>
         <link href="https://chenghsienyu.com/missionfailed/"/>
         <id>https://chenghsienyu.com/missionfailed/</id>
+        <media:content url="https://chenghsienyu.com/media/posts/28/missionFail_0.jpg" medium="image" />
             <category term="Works"/>
             <category term="2014"/>
 
-        <updated>2021-06-29T19:08:06+08:00</updated>
+        <updated>2021-06-29T13:08:06+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/28/missionFail_0.jpg" alt="" />
-                    2014 [ MissionFailed ] custom computer game size variable Brief : [ MissionFailed ] is first of view custom computer game.
+                    2014 [ MissionFailed ] custom computer game size variable Brief : [ MissionFailed ] is first of view custom computer&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://chenghsienyu.com/media/posts/28/missionFail_0.jpg" alt="" />
+                    <p><img src="https://chenghsienyu.com/media/posts/28/missionFail_0.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="page" title="Page 35">
 <div class="section">
 <div class="layoutArea">

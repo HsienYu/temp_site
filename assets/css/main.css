@@ -3912,22 +3912,22 @@ hr::before,
 }
 
 .msg--highlight {
-    background-color: #fffcf1;
-    border-color: #e7b600;
+    background-color: #05cb15;
+    border-color: #05cb15;
 }
 
 .msg--info {
-    background: #f2f9ff;
-    border-color: #007de8;
+    background: #05cb15;
+    border-color: #05cb15;
 }
 
 .msg--success {
-    background: #f7fbf6;
-    border-color: #59a147;
+    background: #05cb15;
+    border-color: #05cb15;
 }
 
 .msg--warning {
-    background: #fff3f3;
+    background: #05cb15;
     border-color: #a94442;
     color: #a94442;
 }
@@ -4465,6 +4465,10 @@ nav {
     text-decoration: none;
     color: rgb(0, 0, 0);
     display: block;
+    -webkit-transition: color 0.2s ease-in-out,
+        border-bottom-color 0.2s ease-in-out;
+    -o-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+    transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 }
 
 .menu li a:hover {

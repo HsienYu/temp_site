@@ -3,7 +3,7 @@
     <title>HsienYu Cheng ｜ 鄭 先喻 </title>
     <link href="https://chenghsienyu.com/feed.xml" rel="self" />
     <link href="https://chenghsienyu.com" />
-    <updated>2023-01-02T16:17:04+01:00</updated>
+    <updated>2023-01-02T19:59:22+01:00</updated>
     <author>
         <name>HsienYu Cheng｜鄭先喻</name>
     </author>
@@ -265,8 +265,10 @@
         <link href="https://chenghsienyu.com/dont-know-what-do-you-think/"/>
         <id>https://chenghsienyu.com/dont-know-what-do-you-think/</id>
         <media:content url="https://chenghsienyu.com/media/posts/42/DS73315-Large.jpeg" medium="image" />
+            <category term="Project &amp; Work"/>
+            <category term="2022"/>
 
-        <updated>2023-01-02T16:12:02+01:00</updated>
+        <updated>2023-01-02T19:59:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/42/DS73315-Large.jpeg" alt="" />

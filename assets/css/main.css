@@ -4392,6 +4392,16 @@ footer .inner-footer {
     margin-right: 20px;
 }
 
+#pressKit {
+    color: rgb(0, 255, 85) !important;
+    position: fixed;
+    vertical-align: middle;
+    bottom: 50px;
+    background-color: black;
+    margin: 0px;
+    padding: 2px 10px 2px 10px;
+}
+
 /* menu */
 nav {
     margin-bottom: 150px;
@@ -4628,6 +4638,10 @@ a {
     #popup>div.wrapper {
         padding: 0px;
         margin: 10px;
+    }
+
+    #pressKit {
+        visibility: hidden;
     }
 
 }

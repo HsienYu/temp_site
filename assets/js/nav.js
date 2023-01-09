@@ -4,6 +4,7 @@ $(".menu ul.submenu.level-2 li a").each(function (index, item) {
     var isNumber = $.isNumeric(title);
     if (isNumber) {
         $(item).append('⬅︎⬅︎⬅︎');
+        $(item).addClass('sticky');
     } else if (title == 'Works') {
         $(item).append('⬅︎⬅︎⬅︎');
     }

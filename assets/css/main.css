@@ -4489,6 +4489,12 @@ nav {
     background-color: black;
 }
 
+.sticky {
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+
 
 /* main and popup contents */
 #popup {

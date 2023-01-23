@@ -4492,7 +4492,7 @@ nav {
 .sticky {
     position: sticky;
     top: 0px;
-    z-index: 99999;
+    z-index: 1400;
 }
 
 
@@ -4512,7 +4512,7 @@ nav {
     background: rgb(0, 0, 0);
     border: 1px solid #ffffff;
     border-radius: 5px;
-    z-index: 999999;
+    z-index: 1450;
 }
 
 #popup:target {

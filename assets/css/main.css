@@ -4417,7 +4417,7 @@ nav {
     text-decoration: none;
     padding: 0;
     margin: 0;
-    font-size: 45px;
+    font-size: 33px;
 }
 
 .menu span {
@@ -4427,7 +4427,7 @@ nav {
     list-style: none;
     text-decoration: none;
     color: rgb(0, 0, 0);
-    font-size: 40px;
+    font-size: 33px;
 }
 
 .menu ul {
@@ -4447,7 +4447,7 @@ nav {
 
 .menu ul.submenu.level-2 li a {
     border-bottom: 2px solid black;
-    font-size: 20px;
+    font-size: 13px;
     font-weight: 300;
 }
 
@@ -4457,7 +4457,7 @@ nav {
 }
 
 .menu ul.submenu.level-3 li {
-    margin: 20px;
+    margin: 13px;
 }
 
 .menu li {

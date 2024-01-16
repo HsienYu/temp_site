@@ -3,12 +3,51 @@
     <title>HsienYu Cheng ｜ 鄭 先喻 </title>
     <link href="https://chenghsienyu.com/feed.xml" rel="self" />
     <link href="https://chenghsienyu.com" />
-    <updated>2023-09-30T18:04:50+02:00</updated>
+    <updated>2024-01-17T05:07:20+08:00</updated>
     <author>
         <name>HsienYu Cheng｜鄭先喻</name>
     </author>
     <id>https://chenghsienyu.com</id>
 
+    <entry>
+        <title>% consumption of computing</title>
+        <author>
+            <name>HsienYu Cheng｜鄭先喻</name>
+        </author>
+        <link href="https://chenghsienyu.com/consumption-of-computing/"/>
+        <id>https://chenghsienyu.com/consumption-of-computing/</id>
+            <category term="2023"/>
+            <category term="% consumption of computing"/>
+
+        <updated>2024-01-17T05:07:20+08:00</updated>
+            <summary>
+                <![CDATA[
+                    名稱：％ consumption of computing 媒材：VR headset, web application, machine learning server side application, game engine, display monitor. Link to website.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p1"><span class="s1">名稱：％</span> consumption of computing</p>
+<p class="p1"><span class="s1">媒材：</span>VR headset, web application, machine learning server side application, game engine, display monitor.</p>
+<p>Link to website.   <a href="https://detecting-percentage.vercel.app" target="_blank" rel="noopener noreferrer">Link for %</a></p>
+<p>Offline version - Video:</p>
+<figure class="post__video"><iframe loading="lazy" width="425" height="350" src="https://player.vimeo.com/video/903448051?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc&dnt=1" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p class="p3">簡述：</p>
+<p class="p3">近代社會推進的進程，從個人電腦、網際網路到手持智慧型裝置與伺服器網路應用等等，作為一連串爆發式的前進，從社群網路到未來無密碼登入與許多正在萌芽的<span class="s2">web3</span>應用，也漸漸將人的生物識別特徵逐一連結，甚至生活習慣與行為，人也從擷取資訊到已經像是作為原料或是糧食一樣的角色存在於網路世界與網路應用中，這樣的現象也帶動了全線上框架的發展與衍伸出許多不同的商業應用，現代人也漸漸的習慣享受與遊戲於虛擬世界所建構的環境中。</p>
+<p class="p3">作品為利用機器學習產出ＶＲ環景影像的自然場景，場景的產生基於使用者使用裝置瀏覽網路應用程式時，系統會記錄使用者裝置的電池狀態與容量百分比，去對應產生的ＶＲ場景風格，電池容量越低ＶＲ場景會趨近於天然與乾淨無破壞的景觀，反之如果電池容量百分比越高，場景則會趨近於人為破壞或是較為污染與負面的生態。作品同時也藉由紀錄伺服器端圖像與機器學習運算時所消耗的時間轉換為所消耗的電源功率，去產生圖表與視覺化資料，討論在大量依靠伺服器邊緣運算的當下，娛樂與資本的服務平台以及消費性的商品與市場所帶來的能源消耗與環境之間的平衡與破壞。</p>
+<p class="p3">經由這種使用觀眾實體裝置的物理參數（電池容量與狀態）去影響與控制虛擬實境產出的自然場景去象徵技術的發展與環境之間的關係，也凸顯未來在伺服器運算技術如何與能源消耗和環境之間的平衡進行融合，這類應用的發展需要大量的資源，包括能源、原材料和水，作品也希望表現出這類資源的開採和使用對環境產生了不可忽視的影響，也反映出未來人在虛實世界上的邊界會產生更多新的交互作用與影響，那些影響也藉由政治、社會狀態、環境等等範疇上不斷的出現在我們所處的現實上。</p>
+<p>Title: % Consumption of Computing</p>
+<p>Medium: VR headset, web application, machine learning server side application, game engine, display monitor.</p>
+<p>Brief Description:</p>
+<p>In the progression of modern society, from personal computers, the internet to handheld smart devices and server network applications, etc., an explosive progression is evidenced. From social networking to future password-less login and many emerging Web3 applications, bio-identification features of people are gradually connected, as well as their habits and behavior. Humans have moved from information gatherers to being used as "material" or "food" in the digital world and internet applications. This phenomenon also boosts the development of an all-online framework and gives rise to many different commercial applications. Modern people are gradually getting used to the environment constructed in the virtual world through games.</p>
+<p>This work uses machine learning to produce VR panoramic images of natural scenes. The generation of the scenes is based on the battery status and capacity percentage of the user's device when browsing the web application. The lower the battery capacity, the more the VR scene will tend to resemble a natural and undamaged view, while a higher battery percentage will yield scenes that lean towards human-caused damage or more polluted and negative ecosystems. By recording the server-side image and the time consumed by machine learning calculations, the work also generates charts and visualized data, discussing the balance and destruction between energy consumption and the environment brought about by entertainment, capital service platforms, consumer goods, and the market that heavily relies on edge computing at the server.</p>
+<p>The work utilizes the physical parameters (battery capacity and status) of the audience's device to influence and control the generation of natural scenes in the VR, symbolizing the relationship between technological development and the environment, and highlighting how future server computing technology will be merged with energy consumption and environmental balance. The development of such applications requires a large amount of resources, including energy, raw materials, and water. The work hopes to express the indisputable impact that the extraction and use of such resources have on the environment. It reflects that in the future, the boundary between the virtual and real world is likely to generate more new interactions and influences, and these influences continually surface in our reality through politics, social state, and environment and other aspects.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/lhDOW3TfBUs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>There is Another Capital Beneath the Waves</title>
         <author>
@@ -20,7 +59,7 @@
             <category term="Project &amp; Work"/>
             <category term="2023"/>
 
-        <updated>2023-09-30T17:40:46+02:00</updated>
+        <updated>2023-09-30T23:40:46+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/50/de8793f9aa31f620be3a44b7f41fce2e.jpg" alt="" />
@@ -92,7 +131,7 @@
             <category term="Project &amp; Work"/>
             <category term="2023"/>
 
-        <updated>2023-09-30T18:02:43+02:00</updated>
+        <updated>2023-10-01T00:02:43+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/49/eslitegalleryviewingroom-hsienyu-cheng-a-slightly-different-browser-2023_02.jpeg" alt="" />
@@ -134,7 +173,7 @@
             <category term="Project &amp; Work"/>
             <category term="2023"/>
 
-        <updated>2023-09-30T18:02:18+02:00</updated>
+        <updated>2023-10-01T00:02:18+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/48/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023.jpg" alt="" />
@@ -173,7 +212,7 @@
         <media:content url="https://chenghsienyu.com/media/posts/47/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023.jpg" medium="image" />
             <category term="Solo Exhibition"/>
 
-        <updated>2023-09-30T18:04:50+02:00</updated>
+        <updated>2023-10-01T00:04:50+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/47/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023.jpg" alt="" />
@@ -216,7 +255,7 @@
         <media:content url="https://chenghsienyu.com/media/posts/46/Xiang-Ya-Qia_Zheng-Xian-YuZheng_10x15cm.jpg" medium="image" />
             <category term="Solo Exhibition"/>
 
-        <updated>2023-05-03T17:01:23+02:00</updated>
+        <updated>2023-05-03T23:01:23+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/46/Xiang-Ya-Qia_Zheng-Xian-YuZheng_10x15cm.jpg" alt="" />
@@ -250,7 +289,7 @@
         <media:content url="https://chenghsienyu.com/media/posts/45/70039162638__607D8166-384D-4816-89CB-E04C21CDD058.jpg" medium="image" />
             <category term="Solo Exhibition"/>
 
-        <updated>2023-04-10T13:48:58+02:00</updated>
+        <updated>2023-04-10T19:48:58+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/45/70039162638__607D8166-384D-4816-89CB-E04C21CDD058.jpg" alt="" />
@@ -286,7 +325,7 @@
             <category term="Project &amp; Work"/>
             <category term="2021"/>
 
-        <updated>2023-01-01T15:57:40+01:00</updated>
+        <updated>2023-01-01T22:57:40+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/43/538e05b82b3e3d023d8e91efe0321c36.jpg" alt="" />
@@ -322,7 +361,7 @@
             <category term="Project &amp; Work"/>
             <category term="2022"/>
 
-        <updated>2023-01-03T17:45:26+01:00</updated>
+        <updated>2023-01-04T00:45:26+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/41/demo_a.png" alt="" />
@@ -414,7 +453,7 @@
             <category term="Project &amp; Work"/>
             <category term="2022"/>
 
-        <updated>2023-01-03T14:59:49+01:00</updated>
+        <updated>2023-01-03T21:59:49+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/40/DSC3331-Large.jpeg" alt="" />
@@ -435,54 +474,6 @@
 <figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/40/gallery/DSC3334-Large.jpeg" data-size="1280x854"><img loading="lazy" src="https://chenghsienyu.com/media/posts/40/gallery/DSC3334-Large-thumbnail.webp" alt="" width="720" height="480"></a></figure>
 </div></div>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/FrPuAo8lXzM?start=220" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>It Could Be You</title>
-        <author>
-            <name>HsienYu Cheng｜鄭先喻</name>
-        </author>
-        <link href="https://chenghsienyu.com/it-could-be-you/"/>
-        <id>https://chenghsienyu.com/it-could-be-you/</id>
-        <media:content url="https://chenghsienyu.com/media/posts/39/20221005-028-2.jpg" medium="image" />
-            <category term="Project &amp; Work"/>
-            <category term="2022"/>
-
-        <updated>2023-01-03T14:54:48+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://chenghsienyu.com/media/posts/39/20221005-028-2.jpg" alt="" />
-                    這可能是你 2022 軟體、印表機、熱感紙，即時生成影像，裝置可變 Software, printer, thermal paper, real-time generative video, installations may var 作品源自2019年鄭先喻的個展｛同化者｝中無題作品之延伸，藉由網路伺服器端應用，搜尋並搜集地區性線上論壇與即時聊天室資訊，建立資料庫模型以及視覺產出。當網路鄉民一留言，系統運用發文或留言者的帳號去搜尋可能的個人資料與肖像照片，再藉由合成資料技術結合機器學習成像，產出一系列的假想個資。 As a continuation of the untitled&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://chenghsienyu.com/media/posts/39/20221005-028-2.jpg" class="type:primaryImage" alt="" /></p>
-                <div>
-<div>這可能是你</div>
-<div> </div>
-<div class="Modal_Modal_content__VI0DM">2022</div>
-<div class="Modal_Modal_content_nj__6UGVw">軟體、印表機、熱感紙，即時生成影像，裝置可變</div>
-<div class="Modal_Modal_content_nj__6UGVw">Software, printer, thermal paper, real-time generative video, installations may var</div>
-</div>
-<div> </div>
-<div class="Modal_Modal_content__VI0DM">作品源自2019年鄭先喻的個展｛同化者｝中無題作品之延伸，藉由網路伺服器端應用，搜尋並搜集地區性線上論壇與即時聊天室資訊，建立資料庫模型以及視覺產出。當網路鄉民一留言，系統運用發文或留言者的帳號去搜尋可能的個人資料與肖像照片，再藉由合成資料技術結合機器學習成像，產出一系列的假想個資。</div>
-<div class="Modal_Modal_content__VI0DM MuiBox-root css-0"><span class="Modal_Modal_content__VI0DM MuiBox-root css-0">As a continuation of the untitled works featured in CHENG Hsien-Yu‘s solo exhibition｛Assimilator｝ in 2019,</span><span class="Modal_Modal_content__VI0DM MuiBox-root css-1hwdy8m">It Could Be You</span><span class="Modal_Modal_content__VI0DM MuiBox-root css-1isemmb">employs internet servers to collect messages from regional online forums and chatrooms to create a database model and to generate visual images. When netizens post a message, the system will detect it and instantly search for any personal information and portraits available by the users’ IDs, with which it adopts and integrates the technology of synthetic data with machine learning to generate images as a series of imaginary and fictional personal data.</span></div>
-<div> </div>
-<div>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/39/gallery/20221005-026-2.jpg" data-size="7000x4669"><img loading="lazy" src="https://chenghsienyu.com/media/posts/39/gallery/20221005-026-2-thumbnail.webp" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/39/gallery/20221005-027-2.jpg" data-size="7000x4669"><img loading="lazy" src="https://chenghsienyu.com/media/posts/39/gallery/20221005-027-2-thumbnail.webp" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/39/gallery/20221005-028-2.jpg" data-size="7000x4669"><img loading="lazy" src="https://chenghsienyu.com/media/posts/39/gallery/20221005-028-2-thumbnail.webp" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/39/gallery/20221005-032-2.jpg" data-size="7000x4669"><img loading="lazy" src="https://chenghsienyu.com/media/posts/39/gallery/20221005-032-2-thumbnail.webp" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/39/gallery/20221005-035-2.jpg" data-size="7000x4669"><img loading="lazy" src="https://chenghsienyu.com/media/posts/39/gallery/20221005-035-2-thumbnail.webp" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/39/gallery/20221005-043.jpg" data-size="7000x4669"><img loading="lazy" src="https://chenghsienyu.com/media/posts/39/gallery/20221005-043-thumbnail.webp" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/39/gallery/20221005-046.jpg" data-size="7000x4669"><img loading="lazy" src="https://chenghsienyu.com/media/posts/39/gallery/20221005-046-thumbnail.webp" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/39/gallery/20221005-049-2.jpg" data-size="7000x4669"><img loading="lazy" src="https://chenghsienyu.com/media/posts/39/gallery/20221005-049-2-thumbnail.webp" alt="" width="720" height="480"></a></figure>
-</div></div>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/hrDpojXeYYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-</div>
             ]]>
         </content>
     </entry>

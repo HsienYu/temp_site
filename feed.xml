@@ -3,7 +3,7 @@
     <title>HsienYu Cheng ｜ 鄭 先喻 </title>
     <link href="https://chenghsienyu.com/feed.xml" rel="self" />
     <link href="https://chenghsienyu.com" />
-    <updated>2024-02-14T16:05:33+08:00</updated>
+    <updated>2024-02-27T18:04:26+08:00</updated>
     <author>
         <name>HsienYu Cheng｜鄭先喻</name>
     </author>
@@ -173,7 +173,7 @@
             <category term="Project &amp; Work"/>
             <category term="2023"/>
 
-        <updated>2023-10-01T00:02:18+08:00</updated>
+        <updated>2024-02-27T18:04:26+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/48/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023.jpg" alt="" />
@@ -193,12 +193,9 @@
 <figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/48/gallery/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023_03.jpeg" data-size="3000x1956"><img loading="lazy" src="https://chenghsienyu.com/media/posts/48/gallery/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023_03-thumbnail.webp" alt="" width="720" height="469"></a></figure>
 <figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/48/gallery/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023_02.jpeg" data-size="3000x2090"><img loading="lazy" src="https://chenghsienyu.com/media/posts/48/gallery/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023_02-thumbnail.webp" alt="" width="720" height="502"></a></figure>
 </div></div>
-<figure class="post__video"><iframe loading="lazy" width="695" height="572" style="width: 695px; height: 572px;" src="https://player.vimeo.com/video/865813598?title=0&amp;amp;byline=0&dnt=1" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<div class="content">
-<div class="description" data-fieldname="content">
-<p>Photo by Eslite gallery</p>
-</div>
-</div>
+<figure class="post__video">
+<figure class="post__video"><iframe loading="lazy" width="425" height="350" src="https://player.vimeo.com/video/865813598?title=0&amp;amp;byline=0&dnt=1" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Photo by Eslite gallery</span></figure>
             ]]>
         </content>
     </entry>

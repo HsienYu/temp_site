@@ -3,7 +3,7 @@
     <title>HsienYu Cheng ｜ 鄭 先喻 </title>
     <link href="https://chenghsienyu.com/feed.xml" rel="self" />
     <link href="https://chenghsienyu.com" />
-    <updated>2024-02-28T21:44:18+08:00</updated>
+    <updated>2024-02-28T21:50:34+08:00</updated>
     <author>
         <name>HsienYu Cheng｜鄭先喻</name>
     </author>
@@ -173,7 +173,7 @@
             <category term="Project &amp; Work"/>
             <category term="2023"/>
 
-        <updated>2024-02-28T21:44:18+08:00</updated>
+        <updated>2024-02-28T21:50:34+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/48/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023.jpg" alt="" />
@@ -194,7 +194,7 @@
 <p class="p1">In an environment saturated with internet information, continuing from traditional mass media to today's short visual and audio experiences, the way humans receive sensory stimuli has changed significantly on the informational level. Communication and understanding messages are markedly different from the past. In the exhibition, observers or audiences become witnesses, translating visual experiences into language and other non-visual forms of communication. This process activates a special relationship bet.</p>
 <p class="p2"> </p>
 <p class="p1">Technical Details:</p>
-<p class="p1">This work involves two distinct machine learning models and algorithms. ReID (Person Re-Identification) aims to assist installations in remembering who is operating the joystick. Therefore, when the operator approaches the installation screen, the system will erase the image. Thanks to person re-identification, even after the operator has left, the system will still be able to recognize the individual for a certain period of time.</p>
+<p class="p1">This work involves two distinct machine learning models and algorithms. ReID (Person Re-Identification) aims to assist installations in remembering who is operating the joystick. Therefore, when the operator approaches the installation screen, the system will erase the image. Thanks to person re-identification, even after the operator has left, the system will still be able to recognize the individual for a certain period of time.The GroundingDino is for detecting any device which can capture or record the image of installation.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/48/gallery/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023.jpg" data-size="3000x2000"><img loading="lazy" src="https://chenghsienyu.com/media/posts/48/gallery/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023-thumbnail.webp" alt="" width="720" height="480"></a></figure>
 <figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/48/gallery/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023_03.jpeg" data-size="3000x1956"><img loading="lazy" src="https://chenghsienyu.com/media/posts/48/gallery/eslitegalleryviewingroom-hsienyu-cheng-around-7-meters-is-more-fun-2023_03-thumbnail.webp" alt="" width="720" height="469"></a></figure>

@@ -4442,11 +4442,11 @@ nav {
 .menu ul.submenu.level-2 {
     position: relative;
     top: 15px;
-    border-top: 4px solid black;
+    border-top: 2px solid black;
 }
 
 .menu ul.submenu.level-2 li a {
-    border-bottom: 2px solid black;
+    /* border-bottom: 2px solid black; */
     font-size: 13px;
     font-weight: 300;
 }

@@ -4511,8 +4511,8 @@ nav {
     transition: opacity 1s;
     visibility: visible;
     opacity: 1;
-    background: rgb(46, 46, 46);
-    border: 1px dashed rgb(0, 0, 0);
+    background: white;
+    border: 0.6px dashed rgb(0, 0, 0);
     border-radius: 5px;
     z-index: 1450;
 }
@@ -4529,22 +4529,23 @@ nav {
     transition: all 1s ease-in-out;
     padding: 30px;
     margin: 15px;
+    background-color: white;
 }
 
 #popup .content {
     display: inline-block;
-    border: 1px solid #55ff00 max-width:50%;
-    color: white;
+    border: 0.6px solid #000000 max-width:50%;
+    color: #000;
     margin: 20px;
 }
 
 #popup .content a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
 #popup .content a:hover {
-    color: rgb(0, 255, 76);
+    color: rgb(118, 118, 118);
     text-decoration: underline;
 }
 
@@ -4557,11 +4558,11 @@ nav {
     font-size: 60px;
     font-weight: bold;
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 #popup .close:hover {
-    color: #55ff00;
+    color: #4a4a4a; !important;
 }
 
 /* tag navgator */

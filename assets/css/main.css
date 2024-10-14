@@ -267,7 +267,7 @@ a:hover strong {
 
 strong,
 b {
-    color: #ffffff;
+    color: #000000;
     font-weight: var(--font-weight-bold);
 }
 
@@ -4504,7 +4504,7 @@ nav {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 90%;
+    width: 100%;
     height: 90%;
     text-align: left;
     overflow: scroll;
@@ -4527,16 +4527,17 @@ nav {
 
 #popup>div.wrapper {
     transition: all 1s ease-in-out;
-    padding: 30px;
-    margin: 15px;
     background-color: white;
+    width: 90%; /* Adjusted for better fit */
+    max-width: 600px; /* Maximum width */
+    margin: 0 auto; /* Center align */
 }
 
 #popup .content {
     display: inline-block;
     border: 0.6px solid #000000 max-width:50%;
+    max-width: 100%; /* Ensure it doesn't overflow */
     color: #000;
-    margin: 20px;
 }
 
 #popup .content a {
@@ -4553,16 +4554,16 @@ nav {
 .close {
     position: absolute;
     top: 0px;
-    right: 30px;
+    right: 10px;
     transition: all 800ms;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: bold;
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(75, 75, 75);
 }
 
 #popup .close:hover {
-    color: #4a4a4a; !important;
+    color: #000000;
 }
 
 /* tag navgator */
@@ -4635,7 +4636,7 @@ a {
 
     #popup .content {
         max-width: 100%;
-        margin-bottom: 120px;
+        /* margin-bottom: 120px; */
     }
 
     :is(article, aside, nav, section) h1 {
@@ -4648,8 +4649,9 @@ a {
     }
 
     #popup>div.wrapper {
-        padding: 0px;
-        margin: 10px;
+        width: 100%;
+        padding: 10px;
+        /* margin: 10px; */
     }
 
     #pressKit {

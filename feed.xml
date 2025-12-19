@@ -3,7 +3,7 @@
     <title>HsienYu Cheng ｜ 鄭 先喻 </title>
     <link href="https://chenghsienyu.com/feed.xml" rel="self" />
     <link href="https://chenghsienyu.com" />
-    <updated>2025-02-28T00:47:18+08:00</updated>
+    <updated>2025-12-19T14:11:20+08:00</updated>
     <author>
         <name>HsienYu Cheng｜鄭先喻</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Project &amp; Work"/>
             <category term="2024"/>
 
-        <updated>2025-02-28T00:47:18+08:00</updated>
+        <updated>2025-12-19T14:11:20+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://chenghsienyu.com/media/posts/54/Zuo-Pin-Tu.png" alt="" />
@@ -36,6 +36,24 @@
 <figure class="gallery__item"><a href="https://chenghsienyu.com/media/posts/54/gallery/Simulator-Screenshot-iPhone-16-Plus-2024-10-14-at-04.27.11.png" data-size="1290x2796"><img loading="lazy" src="https://chenghsienyu.com/media/posts/54/gallery/Simulator-Screenshot-iPhone-16-Plus-2024-10-14-at-04.27.11-thumbnail.webp" alt="" width="720" height="1561"></a></figure>
 </div></div>
 <p><span style="text-decoration: line-through;">There Will Be Works. </span>- &gt; <a href="https://therewillbeworks.com/pages/works.html" target="_blank" rel="noopener noreferrer">There Might Be No works.</a></p>
+<h5 class="text-text-100 mt-2 -mb-1 text-base font-bold">承諾與落空 Promise and Disappointment</h5>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1.5 [li_&amp;]:gap-1.5 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-2 pl-8 mb-3">
+<li class="whitespace-normal break-words pl-2">藝術家宣稱「將會有作品」在某處 The artist claims "there will be works" at certain locations</li>
+<li class="whitespace-normal break-words pl-2">觀眾帶著期待前往GPS定點 Audiences arrive at GPS coordinates with anticipation</li>
+<li class="whitespace-normal break-words pl-2"><strong>但現場根本沒有預設的藝術作品 But there are no preset artworks on site</strong></li>
+</ul>
+<h5 class="text-text-100 mt-2 -mb-1 text-base font-bold">認知的轉換 Cognitive Transformation</h5>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1.5 [li_&amp;]:gap-1.5 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-2 pl-8 mb-3">
+<li class="whitespace-normal break-words pl-2">軟體頁面要求觀眾「拍下他們認為最像作品的照片」 The software page asks audiences to "photograph what they think most resembles an artwork"</li>
+<li class="whitespace-normal break-words pl-2">觀眾被迫在日常環境中<strong>自己定義什麼是藝術 Audiences are forced to define what art is within their everyday environment</strong></li>
+<li class="whitespace-normal break-words pl-2">這個「被迫創作/詮釋」的過程才是真正的作品 This process of "forced creation/interpretation" is the actual artwork</li>
+</ul>
+<h5 class="text-text-100 mt-2 -mb-1 text-base font-bold">重構現實 Reconstruction of Reality</h5>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1.5 [li_&amp;]:gap-1.5 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-2 pl-8 mb-3">
+<li class="whitespace-normal break-words pl-2">Photos are uploaded to 照片上傳到 <a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="https://therewillbeworks.com/pages/works.html">https://therewillbeworks.com/pages/works.html.</a></li>
+<li class="whitespace-normal break-words pl-2">AI生成描述，<strong>賦予這些日常影像「作品」的地位 AI generates descriptions, granting these everyday images the status of "artworks"</strong></li>
+<li class="whitespace-normal break-words pl-2">完成從「沒有作品」到「可能不會有作品」到「作品被創造出來」的循環 Completing the cycle from "no works" to "there might not be works" to "works are created"</li>
+</ul>
 <h3><strong>Concept &amp; Description</strong></h3>
 <p><strong>There Will Be Works</strong> is an artistic project that explores the relationship between presence and absence. By strategically placing artworks in specific areas at irregular intervals without revealing their exact locations, the project invites audiences to actively search for or stumble upon the works. The time and place of the works’ appearances remain unknown, creating a sense of uncertainty and anticipation. The process of searching itself becomes an integral part of the artwork, while the contrast between discovery and non-discovery shapes the core of the experience.</p>
 <p>After experiencing <strong>There Will Be Works</strong>, audiences will be guided to the next phase through a mobile web page—<strong>There Might Not Be Works</strong>. This extension of the project encourages participants to engage in street and documentary-style photography based on GPS coordinates within the city. By blurring the boundaries between artwork and everyday surroundings, the project prompts reflection on what can be considered a work of art.</p>
@@ -47,7 +65,7 @@
 <p><strong>There Might Not Be Works</strong>, a related web-based conceptual artwork, extends the ideas of <strong>There Will Be Works</strong>. This project guides participants through urban spaces via GPS coordinates, encouraging them to create street and documentary-style photographs with the assistance of machine learning.</p>
 <h4><strong>Instructions &amp; Rules</strong></h4>
 <p>-For more details, visit the project website: <span class="s1"><a href="therewillbeworks.com" target="_blank" rel="noopener noreferrer">therewillbeworks.com</a></span>.</p>
-<p>-The artist will announce the presence of works in various locations, but their exact form and position will remain undisclosed. Viewers must navigate to these locations using their mobile devices via GPS. Upon arrival, the web page will provide further instructions and details.</p>
+<p>-The artist will announce the presence of works in various locations（but no, artist won't setup physical works at anywhere.）, but their exact form and position will remain undisclosed. Viewers must navigate to these locations using their mobile devices via GPS. Upon arrival, the web page will provide further instructions and details.</p>
 <p>-The works will remain in place until they are damaged, taken, or removed—but there may also be no work present at all.</p>
 <p>-Once a work disappears, a notice will be issued to inform that it is no longer on-site.</p>
 <p class="p1"><strong>概念與說明</strong></p>
@@ -66,7 +84,7 @@
 <p class="p6"><strong>計畫說明與規則</strong></p>
 <ol class="ol1">
 <li class="li7"><span class="s2">更多詳情請參閱計畫網站：</span><a data-start="3032" data-end="3076" rel="noopener" href="therewillbeworks.com">therewillbeworks.com</a>.</li>
-<li class="li4">藝術家將宣告在許多不同的位置會有作品，而觀眾運用手機到網路頁面，藉由<span class="s1">GPS</span>座標去接近作品，到達作品位置時，網路頁面會進一步引導提供指令與說明。＊＊＊形式與位置皆不事先公布＊＊＊。</li>
+<li class="li4">藝術家將宣告在許多不同的位置會有作品(但只是講講)，而觀眾運用手機到網路頁面，藉由<span class="s1">GPS</span>座標去接近作品，到達作品位置時，網路頁面會進一步引導提供指令與說明。＊＊＊形式與位置皆不事先公布＊＊＊。</li>
 <li class="li4">作品將保持原位，直到遭受破壞、被取走，或被移除，但也有可能沒有作品。</li>
 <li class="li4">一旦作品消失，將發佈通知告知該作品已不再現場。</li>
 </ol>

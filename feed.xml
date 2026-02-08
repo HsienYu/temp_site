@@ -3,7 +3,7 @@
     <title>HsienYu Cheng ｜ 鄭 先喻 </title>
     <link href="https://chenghsienyu.com/feed.xml" rel="self" />
     <link href="https://chenghsienyu.com" />
-    <updated>2026-02-08T22:07:34+08:00</updated>
+    <updated>2026-02-08T23:39:09+08:00</updated>
     <author>
         <name>HsienYu Cheng｜鄭先喻</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Project &amp; Work"/>
             <category term="2025"/>
 
-        <updated>2026-02-08T22:07:34+08:00</updated>
+        <updated>2026-02-08T23:39:09+08:00</updated>
             <summary>
                 <![CDATA[
                     Traced 光蹤 2025 moving lights, computer vision, custom machine learning algorithm and software Size variable 尺⼨可變 (圖：北藝中心提供) 存在與顯現,或者說被看見——日常中總有許多我們不曾察覺的瞬間。 透過 AI&hellip;
@@ -44,9 +44,7 @@
 <p class="p5">在這個充滿感知系統的時代<span class="s4">,</span>作品邀請人們思考「被看見」意味著什麼<span class="s4">——</span>是確認、是賦予意義<span class="s4">,</span>還是失去匿名的庇護<span class="s4">?</span>被看見不僅是存在的確認<span class="s4">,</span>更可能是存在的完成。它可以是認同、是對話的開始、是我們與世界建立連結的方式<span class="s4">,</span>也是我們宣告「我在此」的時刻。當我們離開光束、重回陰影之後<span class="s4">,</span>對自己的理解或許已有所改變。</p>
 <figure class="post__image"><img  src="undefined" alt="" data-is-external-image="true"></figure><figure class="post__image"><img loading="lazy"  src="https://chenghsienyu.com/media/posts/55/w1200.jpeg" alt="" width="1024" height="683" sizes="(max-width: 48em) 100vw, 768px" srcset="https://chenghsienyu.com/media/posts/55/responsive/w1200-xs.webp 300w ,https://chenghsienyu.com/media/posts/55/responsive/w1200-sm.webp 480w ,https://chenghsienyu.com/media/posts/55/responsive/w1200-md.webp 768w"></figure>
 <p>(圖：北藝中心提供)</p>
-<p><video loading="lazy" width="640" height="360" autoplay="autoplay" muted="" loop="loop" controls="controls">
-  <source src="https://drive.google.com/uc?export=download&amp;id=1pydP1ZuXxb9sB-ShOGKtsTsK2tlsbDPG" type="video/webm" />
-  Your browser does not support the video tag.</video></p>
+<div class="post__iframe"><iframe loading="lazy" width="304" height="152" style="border: none; overflow: hidden; width: 100%; height: 100%;" src="https://drive.google.com/file/d/1zVwLBZCeryuZNoVlr5UKP-OmxnPa8SAV/preview" allow="autoplay" frameborder="0"></iframe></div>
 <p class="p6"><span class="s2">Existence and emergence, or being seen—there are many moments in daily life we never notice.</span></p>
 <p class="p6">By using an AI and machine learning-driven imaging system to guide computer-controlled lights, the installation creates an effect akin to an automated follow-spot that tracks pedestrians within a designated area. As viewers enter the active zone, a beam of light locks onto them and begins following their trajectory. This interaction transforms each participant into a performer, allowing figures usually hidden in the crowd to suddenly be given weight and meaning.</p>
 <p class="p6">The work's core lies in the integration of real-time AI analysis and dynamic lighting. The system captures and processes spatial data, while the AI algorithm translates this into motion parameters for the lights, achieving fluid and precise tracking. Here, light becomes a form of witnessing—it doesn't judge or define, it simply follows. This seemingly simple act reminds us: perhaps existence itself is enough.</p>

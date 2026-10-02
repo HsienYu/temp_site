@@ -13,7 +13,7 @@ HsienYu Cheng (鄭先喻), Taiwanese artist and software developer: interactive 
 
 HsienYu Cheng (鄭先喻) was born in 1984 in Kaohsiung, Taiwan. He is an artist and software developer who makes artworks, software and experimental bio-electronic devices. His work looks at human behaviour, emotion, software and the relationship between people and machines, and uses humour to offer a distinctive view of society and the environment.
 
-He received the First Prize of the Taipei Digital Art Award in 2014, the First Prize for New Media Art at the Kaohsiung Art Award in 2017, the Tung Chung Art Award in 2019 and the Visual Art Award of the 19th Taishin Arts Award in 2021. In 2023 he received an S+T+ARTS Nomination / Honorary Mention at Ars Electronica.
+He received the First Prize of the Taipei Digital Art Award in 2014, the First Prize for New Media Art at the Kaohsiung Art Award in 2017, the Tung Chung Prize in 2019 and the Visual Arts Award of the 19th Taishin Arts Award in 2021. In 2023 he received an S+T+ARTS Nomination / Honorary Mention at Ars Electronica.
 
 His solo and group exhibitions have been shown mainly in Taiwan, elsewhere in Asia and in Europe. Recent appearances include Ars Electronica 2023 in Linz, Sónar 2025 in Barcelona, and exhibitions in the Netherlands, Slovenia, Norway, Italy, Germany, France, Austria and Korea.
 
@@ -34,8 +34,8 @@ His solo and group exhibitions have been shown mainly in Taiwan, elsewhere in As
 
 - 2014 Taipei Digital Art Award, First Prize
 - 2017 Kaohsiung Art Award, New Media Art, First Prize
-- 2019 Tung Chung Art Award
-- 2021 19th Taishin Arts Award, Visual Art Award
+- 2019 Tung Chung Prize
+- 2021 19th Taishin Arts Award, Visual Arts Award
 - 2023 S+T+ARTS Nomination / Honorary Mention, Ars Electronica
 
 ## Recent Exhibitions
@@ -134,7 +134,11 @@ HsienYu Cheng, 鄭先喻, Taiwanese artist, Kaohsiung artist, new media art, int
 ## Review & News
 
 ### 2024
+- [許家維、張碩尹、鄭先喻攜手山口媒體藝術中心共同創作「浪濤之下亦有皇都」 以當代影像追溯台日歷史與記憶](https://artemperor.tw/focus/5979)
 - [It Could Be You, digital identities close to you](https://neural.it/2024/04/it-could-be-you-digital-identities-close-to-you/)
+
+### 2023
+- [在機器與程式裡，看見人的小毛病──專訪鄭先喻](https://www.biosmonthly.com/article/11389)
 
 ### 2022
 - [VOP Issue 31：技術邏輯 Technologic](https://vopmagazine.com/vop031/)
@@ -149,8 +153,11 @@ HsienYu Cheng, 鄭先喻, Taiwanese artist, Kaohsiung artist, new media art, int
 - [不再超現實的夢境：鄭先喻《Hijacker:｛，｝》中的現實製造問題](https://www.hongfoundation.org.tw/news-article-item/tung-chung-prize-item-review-assimilator-theaffairs-wang-po-wei)
 - [To Think and Imagine in the Digital Basho: Review on Cheng Hsien-Yu’s ASSIMILATOR 在數位場所裡觸發思想：評鄭先喻的《同化者》](https://www.heath.tw/nml-article/to-think-and-imagine-in-the-digital-basho-review-on-cheng-hsien-yus-assimilator/)
 - [When is your last time you put the phone down? ｛Assimilator｝,solo exhibition by Hsien-Yu CHENG.](https://web.archive.org/web/20231002155452/https://theartpressasia.com/2020/06/22/when-is-your-last-time-you-put-the-phone-down-%EF%BD%9Bassimilator%EF%BD%9Dsolo-exhibition-by-hsien-yu-cheng/)
+- [第二屆銅鐘藝術賞發表 鄭先喻｛同化者｝看見科技與人性的競合](https://artemperor.tw/focus/3352)
+- [「零延滯」時代下的科技焦慮――關於鄭先喻的「同化者」](https://mag.clab.org.tw/clabo-article/assimilator/)
 
 ### 2018
+- [Something/Nothing To Write About: Cheng HsienYu’s Solo Exhibition](https://newbloommag.net/2018/09/08/cheng-hsienyu-solo-exhibition/)
 - [The Question of Institutional Split: Review on Cheng Hsien-yu’s “Sandbox”](https://www.heath.tw/nml-article/thequestionofinstitutionalsplitreviewonchenghsien-yussandbox/)
 
 ### 2017

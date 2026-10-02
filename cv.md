@@ -13,7 +13,7 @@ Download [Link](https://drive.google.com/file/d/1zYFpJixpyRNvU2IDUknRUNQKhLF1pb_
 
 Hsien-Yu CHENG (b. 1984, Kaohsiung, Taiwan; lives and works in Taipei)
 
-Artist and software developer who creates artworks, software, and experimental bio-electronic devices incorporating electronic equipment. Through works that focus on human behavior, emotions, software, and the relationship between people and machines, he communicates his unique view of society and the environment in humorous ways. He won the Taipei Digital Art Award First Prize in 2014, Kaohsiung Art Award New Media Art First Prize in 2017, Tung Chung Art Award in 2019, the 19th Taishin Arts Award Visual Art Award in 2021, and received an S+T+ARTS Nomination / Honorary Mention at Ars Electronica in 2023. His solo and group exhibitions have been shown mainly in Taiwan, elsewhere in Asia and in Europe. Recently, he has participated in Ars Electronica 2023, Sónar 2025 in Barcelona, and other exhibitions in the Netherlands, Slovenia, Norway, Italy, Germany, France, Austria, and Korea.
+Artist and software developer who creates artworks, software, and experimental bio-electronic devices incorporating electronic equipment. Through works that focus on human behavior, emotions, software, and the relationship between people and machines, he communicates his unique view of society and the environment in humorous ways. He won the Taipei Digital Art Award First Prize in 2014, Kaohsiung Art Award New Media Art First Prize in 2017, Tung Chung Prize in 2019, the 19th Taishin Arts Award Visual Arts Award in 2021, and received an S+T+ARTS Nomination / Honorary Mention at Ars Electronica in 2023. His solo and group exhibitions have been shown mainly in Taiwan, elsewhere in Asia and in Europe. Recently, he has participated in Ars Electronica 2023, Sónar 2025 in Barcelona, and other exhibitions in the Netherlands, Slovenia, Norway, Italy, Germany, France, Austria, and Korea.
 
 2013\~      Software developer
 
@@ -295,11 +295,11 @@ S+T+ARTS Prize, Nomination / Honorary Mention
 
 2021
 
-The 19th Taishin Arts Award, Visual Art Award Winner
+The 19th Taishin Arts Award, Visual Arts Award Winner
 
 2019
 
-Tung Chung Art Award, Hong’s Foundation
+Tung Chung Prize, Hong’s Foundation
 
 2017
 

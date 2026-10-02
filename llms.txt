@@ -1,18 +1,13 @@
 # HsienYu Cheng (鄭先喻)
 
-> Taiwanese artist and software developer (born 1984, Kaohsiung) whose practice spans artworks, software, and experimental bio-electronic devices. The work examines human behaviour, emotion, software, and human-machine relationships, often using humour to deliver a distinctive view of society and environment.
+HsienYu Cheng (鄭先喻), Taiwanese artist and software developer: interactive installations, software art and bio-electronic devices about people, machines and code.
 
 ## Primary
 
-- [Homepage](https://chenghsienyu.com/): Portfolio hub and entry point to all works.
-- [CV](https://chenghsienyu.com/cv/): Full biography, awards, exhibitions, education, and press kit link.
-- [Contact](https://chenghsienyu.com/contact/): How to reach the artist. Email: 0x5a@chenghsienyu.com
-- [llms-full.txt](https://chenghsienyu.com/llms-full.txt): Complete bilingual (EN + zh-TW) artist dossier in plain text.
-
-## Works
-
-- [All Works / Review & News](https://chenghsienyu.com/): Index of projects and recent activity.
-- [Tags](https://chenghsienyu.com/tags/): Projects grouped by theme, medium, and year.
+- [Home](https://chenghsienyu.com/)
+- [CV](https://chenghsienyu.com/cv/)
+- [Contact](https://chenghsienyu.com/contact/) ([email](mailto:0x5a@chenghsienyu.com))
+- [Full text](https://chenghsienyu.com/llms-full.txt)
 
 ## Awards
 
@@ -20,18 +15,184 @@
 - 2017 Kaohsiung Art Award, New Media Art, First Prize
 - 2019 Tung Chung Art Award
 - 2021 19th Taishin Arts Award, Visual Art Award
-- 2023 ARS Electronica, S+T+ARTS Nomination / Honorary Mention
+- 2023 S+T+ARTS Nomination / Honorary Mention, Ars Electronica
 
 ## Recent Exhibitions
 
-- 2023 ARS Electronica (Linz, Austria)
+- 2023 Ars Electronica (Linz, Austria)
 - 2025 Sónar+D (Barcelona, Spain)
 - Solo and group exhibitions across Taiwan, the Netherlands, Slovenia, Norway, Italy, Germany, France, Austria, and Korea.
 
+## Works by year
+
+### 2025
+- [Traced](https://chenghsienyu.com/traced/)
+
+### 2024
+- [There Will Be Works](https://chenghsienyu.com/there-will-be-works/)
+- [Credit Makes You Free](https://chenghsienyu.com/credit-makes-you-free/)
+- [todayisnotwhatyoulike](https://chenghsienyu.com/todayisnotwhatyoulike/)
+
+### 2023
+- [Around 7 Meters is More Fun](https://chenghsienyu.com/around-7-meters-is-more-fun/)
+- [A slightly different browser](https://chenghsienyu.com/a-slightly-different-browser/)
+- [% consumption of computing](https://chenghsienyu.com/consumption-of-computing/)
+- [There is Another Capital Beneath the Waves](https://chenghsienyu.com/there-is-another-capital-beneath-the-waves/)
+
+### 2022
+- [Happens to Be Performing](https://chenghsienyu.com/happens-to-be-performing/)
+- [It Could Be You](https://chenghsienyu.com/it-could-be-you/)
+- [Annoyanony](https://chenghsienyu.com/annoyanony/)
+- [Minimal Input @ C-lab](https://chenghsienyu.com/minimal-input-c-lab/)
+- [don't know... what do you think?](https://chenghsienyu.com/dont-know-what-do-you-think/)
+
+### 2021
+- [證件照拍攝指南](https://chenghsienyu.com/photo-of-id/)
+- [Revenge Scenes](https://chenghsienyu.com/revenge-scenes/)
+- [Game of Life](https://chenghsienyu.com/game-of-life/)
+- [Crystal Seeding](https://chenghsienyu.com/crystal-seeding/)
+
+### 2020
+- [discharge what you charged: room edition](https://chenghsienyu.com/discharge-what-you-charged-room-edition/)
+- [invariable variation](https://chenghsienyu.com/invariable-variation/)
+- [de centralize](https://chenghsienyu.com/de-centralize/)
+- [We are just saying what you are ruling](https://chenghsienyu.com/we-are-just-saying-what-you-are-ruling/)
+- [Taipei Robot Man 2.0: Infodemic](https://chenghsienyu.com/taipei-robot-man-2.0-infodemic/)
+
+### 2019
+- [Hijacker:{，} ](https://chenghsienyu.com/hijacker/)
+- [Discharge what you charged](https://chenghsienyu.com/discharge-what-you-charged/)
+- [Others - Assimilator](https://chenghsienyu.com/others-assimilator/)
+
+### 2016
+- [Sandbox](https://chenghsienyu.com/sandbox/)
+- [Second Life: Habitat](https://chenghsienyu.com/second-life-habitat/)
+- [Untitled: The result](https://chenghsienyu.com/untitled-the-result/)
+
+### 2015
+- [Hobo](https://chenghsienyu.com/hobo/)
+- [Artist’s daily job](https://chenghsienyu.com/artists-daily-job/)
+- [We all love Foucault & Deleuze](https://chenghsienyu.com/we-all-love-foucault-and-deleuze/)
+- [isISis](https://chenghsienyu.com/isisis/)
+- [The terminal disagrees](https://chenghsienyu.com/the-terminal-disagrees/)
+
+### 2014
+- [Rc_bOAT](https://chenghsienyu.com/rc_boat/)
+- [Dish on Fish](https://chenghsienyu.com/dish-on-fish/)
+- [portrait 2014](https://chenghsienyu.com/portrait-2014/)
+- [MissionFailed](https://chenghsienyu.com/missionfailed/)
+
+### 2013
+- [portrait 2013 - Douglas Engelbart](https://chenghsienyu.com/portrait-2013-douglas-engelbart/)
+- [Afterlife ver. 2.0](https://chenghsienyu.com/afterlife-ver-2.0/)
+
+### 2011
+- [Afterlife](https://chenghsienyu.com/afterlife/)
+- [portrait 2011](https://chenghsienyu.com/portrait-2011/)
+
+### 2009
+- [heartcoke](https://chenghsienyu.com/heartcoke/)
+
+## Solo exhibitions
+
+- [[.user            ]](https://chenghsienyu.com/user/)
+- [% consumption of computing](https://chenghsienyu.com/consumption-of-computing/)
+- [Eyes, Ears, Nose, Tongues...those parts](https://chenghsienyu.com/eyesearsnose-tonguesthose-parts/)
+- [Revenge Scenes](https://chenghsienyu.com/revenge-scenes/)
+- [Injector after Null](https://chenghsienyu.com/injector-after-null/)
+- [Assimilator](https://chenghsienyu.com/assimilator/)
+- [Injector before Null - Sandbox](https://chenghsienyu.com/injector-before-null-sandbox/)
+- [Second Life: Habitat](https://chenghsienyu.com/second-life-habitat/)
+- [1ed6318fc5481dda3ded... - 2016](https://chenghsienyu.com/1ed6318fc5481dda3ded-2016/)
+- [Collector - 收集者](https://chenghsienyu.com/collector/)
+
+## Review & News
+
+### 2024
+- [It Could Be You, digital identities close to you](https://neural.it/2024/04/it-could-be-you-digital-identities-close-to-you/)
+
+### 2022
+- [VOP Issue 31：技術邏輯 Technologic](https://vopmagazine.com/vop031/)
+
+### 2021
+- [鄭先喻個展「injector after Null」：It's the song, not the singer](https://mag.ncafroc.org.tw/article_detail.html?id=297ef72279c1c94e0179f8b5fbf20000)
+- [《證件照拍攝指南》中的身份與主體生成問題](https://artouch.com/views/content-41632.html)
+- [Transitions, Articulated and Experienced](https://nomanisanis.land/null-exhibition-review/)
+
+### 2020
+- [鄭先喻《來生 Afterlife Ver. 1.0》到《台北機電人 2.0：訊息瘟疫》——殺死越多，來生越多](https://www.biosmonthly.com/article/10559)
+- [不再超現實的夢境：鄭先喻《Hijacker:｛，｝》中的現實製造問題](https://www.hongfoundation.org.tw/news-article-item/tung-chung-prize-item-review-assimilator-theaffairs-wang-po-wei)
+- [To Think and Imagine in the Digital Basho: Review on Cheng Hsien-Yu’s ASSIMILATOR 在數位場所裡觸發思想：評鄭先喻的《同化者》](https://www.heath.tw/nml-article/to-think-and-imagine-in-the-digital-basho-review-on-cheng-hsien-yus-assimilator/)
+- [When is your last time you put the phone down? ｛Assimilator｝,solo exhibition by Hsien-Yu CHENG.](https://web.archive.org/web/20231002155452/https://theartpressasia.com/2020/06/22/when-is-your-last-time-you-put-the-phone-down-%EF%BD%9Bassimilator%EF%BD%9Dsolo-exhibition-by-hsien-yu-cheng/)
+
+### 2018
+- [The Question of Institutional Split: Review on Cheng Hsien-yu’s “Sandbox”](https://www.heath.tw/nml-article/thequestionofinstitutionalsplitreviewonchenghsien-yussandbox/)
+
+### 2017
+- [藝術，不存之地　忠泰美術館當代藝術展](https://artouch.com/views/content-1116.html)
+
+### undated
+- [生命中不能寫實之輕：鄭先喻《Afterlife Ver.2.0－生命的來來去去》中的抽象意識](https://web.archive.org/web/20241113211201/https://issuu.com/vtartsalon/docs/very_view_09)
+
+## Plain Markdown for every post
+
+- [1ed6318fc5481dda3ded... - 2016](https://chenghsienyu.com/1ed6318fc5481dda3ded-2016.md)
+- [A slightly different browser](https://chenghsienyu.com/a-slightly-different-browser.md)
+- [Afterlife](https://chenghsienyu.com/afterlife.md)
+- [Afterlife ver. 2.0](https://chenghsienyu.com/afterlife-ver-2.0.md)
+- [Annoyanony](https://chenghsienyu.com/annoyanony.md)
+- [Around 7 Meters is More Fun](https://chenghsienyu.com/around-7-meters-is-more-fun.md)
+- [Artist’s daily job](https://chenghsienyu.com/artists-daily-job.md)
+- [Assimilator](https://chenghsienyu.com/assimilator.md)
+- [Collector - 收集者](https://chenghsienyu.com/collector.md)
+- [% consumption of computing](https://chenghsienyu.com/consumption-of-computing.md)
+- [Contact](https://chenghsienyu.com/contact.md)
+- [Credit Makes You Free](https://chenghsienyu.com/credit-makes-you-free.md)
+- [Crystal Seeding](https://chenghsienyu.com/crystal-seeding.md)
+- [CV](https://chenghsienyu.com/cv.md)
+- [de centralize](https://chenghsienyu.com/de-centralize.md)
+- [Discharge what you charged](https://chenghsienyu.com/discharge-what-you-charged.md)
+- [discharge what you charged: room edition](https://chenghsienyu.com/discharge-what-you-charged-room-edition.md)
+- [Dish on Fish](https://chenghsienyu.com/dish-on-fish.md)
+- [don't know... what do you think?](https://chenghsienyu.com/dont-know-what-do-you-think.md)
+- [Eyes, Ears, Nose, Tongues...those parts](https://chenghsienyu.com/eyesearsnose-tonguesthose-parts.md)
+- [Game of Life](https://chenghsienyu.com/game-of-life.md)
+- [Happens to Be Performing](https://chenghsienyu.com/happens-to-be-performing.md)
+- [heartcoke](https://chenghsienyu.com/heartcoke.md)
+- [Hijacker:{，} ](https://chenghsienyu.com/hijacker.md)
+- [Hobo](https://chenghsienyu.com/hobo.md)
+- [Home](https://chenghsienyu.com/home.md)
+- [Injector after Null](https://chenghsienyu.com/injector-after-null.md)
+- [Injector before Null - Sandbox](https://chenghsienyu.com/injector-before-null-sandbox.md)
+- [invariable variation](https://chenghsienyu.com/invariable-variation.md)
+- [isISis](https://chenghsienyu.com/isisis.md)
+- [It Could Be You](https://chenghsienyu.com/it-could-be-you.md)
+- [Minimal Input @ C-lab](https://chenghsienyu.com/minimal-input-c-lab.md)
+- [MissionFailed](https://chenghsienyu.com/missionfailed.md)
+- [Others - Assimilator](https://chenghsienyu.com/others-assimilator.md)
+- [證件照拍攝指南](https://chenghsienyu.com/photo-of-id.md)
+- [portrait 2011](https://chenghsienyu.com/portrait-2011.md)
+- [portrait 2013 - Douglas Engelbart](https://chenghsienyu.com/portrait-2013-douglas-engelbart.md)
+- [portrait 2014](https://chenghsienyu.com/portrait-2014.md)
+- [Rc_bOAT](https://chenghsienyu.com/rc_boat.md)
+- [Revenge Scenes](https://chenghsienyu.com/revenge-scenes.md)
+- [Sandbox](https://chenghsienyu.com/sandbox.md)
+- [Second Life: Habitat](https://chenghsienyu.com/second-life-habitat.md)
+- [Taipei Robot Man 2.0: Infodemic](https://chenghsienyu.com/taipei-robot-man-2.0-infodemic.md)
+- [The terminal disagrees](https://chenghsienyu.com/the-terminal-disagrees.md)
+- [There is Another Capital Beneath the Waves](https://chenghsienyu.com/there-is-another-capital-beneath-the-waves.md)
+- [There Will Be Works](https://chenghsienyu.com/there-will-be-works.md)
+- [todayisnotwhatyoulike](https://chenghsienyu.com/todayisnotwhatyoulike.md)
+- [Traced](https://chenghsienyu.com/traced.md)
+- [Untitled: The result](https://chenghsienyu.com/untitled-the-result.md)
+- [[.user            ]](https://chenghsienyu.com/user.md)
+- [We all love Foucault & Deleuze](https://chenghsienyu.com/we-all-love-foucault-and-deleuze.md)
+- [We are just saying what you are ruling](https://chenghsienyu.com/we-are-just-saying-what-you-are-ruling.md)
+
 ## 中文
 
-鄭先喻，1984年生於台灣高雄，藝術家兼軟體開發人員。創作藝術作品、軟體及結合電子設備的實驗性生物電子裝置。透過專注於人類行為、情感、軟體以及人機關係的作品，以幽默的方式傳達對社會與環境的獨特見解。
+鄭先喻，1984 年生於台灣高雄，藝術家兼軟體開發人員。
 
 - [首頁](https://chenghsienyu.com/)
-- [履歷 / CV](https://chenghsienyu.com/cv/)
+- [履歷](https://chenghsienyu.com/cv/)
 - [聯絡](https://chenghsienyu.com/contact/)

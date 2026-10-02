@@ -1,55 +1,1200 @@
-# HsienYu Cheng (鄭先喻) — Artist Dossier
+# HsienYu Cheng (鄭先喻)
 
-Canonical URL: https://chenghsienyu.com
-Email: 0x5a@chenghsienyu.com
-Born: 1984, Kaohsiung, Taiwan
-Roles: Artist, Software Developer
+HsienYu Cheng (鄭先喻), Taiwanese artist and software developer: interactive installations, software art and bio-electronic devices about people, machines and code.
 
-## Biography (English)
+## Primary
 
-Born 1984 in Kaohsiung. Artist and software developer who creates artworks, software, and experimental bio-electronic devices incorporating electronic equipment. Through his works with a focus on human behaviour, emotions, software, and relationships between machines, he communicates his unique view of society and environment in humorous ways. He won the Taipei Digital Art Award First Prize in 2014, the Kaohsiung Art Award New Media Art First Prize in 2017, the Tung Chung Art Award in 2019, and the 19th Taishin Arts Award Visual Art Award in 2021, and received an S+T+ARTS Nomination / Honorary Mention at ARS Electronica in 2023. His solo and group exhibitions are mostly presented in Taiwan, Asia, and Europe. Recently, he has participated in ARS Electronica 2023, Sónar 2025 in Barcelona, and other exhibitions in the Netherlands, Slovenia, Norway, Italy, Germany, France, Austria, and Korea.
+- [Home](https://chenghsienyu.com/)
+- [CV](https://chenghsienyu.com/cv/)
+- [Contact](https://chenghsienyu.com/contact/) ([email](mailto:0x5a@chenghsienyu.com))
+- [Full text](https://chenghsienyu.com/llms-full.txt)
 
-## 自述 (繁體中文)
+## Biography
 
-1984年生於高雄。藝術家兼軟體開發人員，創作藝術作品、軟體及結合電子設備的實驗性生物電子裝置。透過專注於人類行為、情感、軟體以及人機關係的作品，以幽默的方式傳達他對社會與環境的獨特見解。曾獲2014年台北數位藝術獎首獎、2017年高雄獎新媒體藝術首獎、2019年銅鐘藝術獎、2021年第十九屆台新藝術獎視覺藝術獎，並於2023年獲得奧地利電子藝術節S+T+ARTS提名 / 榮譽獎。其個展與聯展主要在台灣、亞洲及歐洲展出。近期參與2023年奧地利電子藝術節、2025年巴塞隆納Sónar音樂節，以及荷蘭、斯洛維尼亞、挪威、義大利、德國、法國、奧地利、韓國等地的展覽。
+HsienYu Cheng (鄭先喻) was born in 1984 in Kaohsiung, Taiwan. He is an artist and software developer who makes artworks, software and experimental bio-electronic devices. His work looks at human behaviour, emotion, software and the relationship between people and machines, and uses humour to offer a distinctive view of society and the environment.
+
+He received the First Prize of the Taipei Digital Art Award in 2014, the First Prize for New Media Art at the Kaohsiung Art Award in 2017, the Tung Chung Art Award in 2019 and the Visual Art Award of the 19th Taishin Arts Award in 2021. In 2023 he received an S+T+ARTS Nomination / Honorary Mention at Ars Electronica.
+
+His solo and group exhibitions have been shown mainly in Taiwan, elsewhere in Asia and in Europe. Recent appearances include Ars Electronica 2023 in Linz, Sónar 2025 in Barcelona, and exhibitions in the Netherlands, Slovenia, Norway, Italy, Germany, France, Austria and Korea.
+
+## 中文
+
+鄭先喻，1984 年生於台灣高雄，藝術家兼軟體開發人員。創作藝術作品、軟體及結合電子設備的實驗性生物電子裝置，透過聚焦人類行為、情感、軟體以及人機關係的作品，以幽默的方式傳達他對社會與環境的獨特見解。曾獲 2014 年台北數位藝術獎首獎、2017 年高雄獎新媒體藝術首獎、2019 年銅鐘藝術賞、2021 年第十九屆台新藝術獎視覺藝術獎，並於 2023 年獲得奧地利電子藝術節 S+T+ARTS 提名／榮譽獎。個展與聯展主要在台灣、亞洲及歐洲展出，近期參與 2023 年奧地利電子藝術節、2025 年巴塞隆納 Sónar 音樂節，以及荷蘭、斯洛維尼亞、挪威、義大利、德國、法國、奧地利、韓國等地的展覽。
 
 ## Practice
 
-HsienYu Cheng works at the intersection of contemporary art and software engineering. The practice investigates:
-
-- Human behaviour and emotion as mediated by machines and code.
-- Software as both medium and subject of art.
-- Human-machine relationships, with particular attention to unequal or absurd exchanges.
-- Experimental bio-electronic devices that integrate living systems with custom electronics.
-- Interactive installation, new media art, and performative objects.
+- Human behaviour and emotion as shaped by machines and code.
+- Software as both the medium and the subject of art.
+- The relationship between people and machines, especially unequal or absurd exchanges.
+- Experimental bio-electronic devices that combine living systems with custom electronics.
+- Interactive installations, new media art and performative objects.
 - Humour and irony as tools for social and environmental critique.
 
-## Awards and Recognition
+## Awards
 
-- 2023 — S+T+ARTS Nomination / Honorary Mention, ARS Electronica (Linz, Austria)
-- 2021 — 19th Taishin Arts Award, Visual Art Award (Taiwan)
-- 2019 — Tung Chung Art Award (Taiwan)
-- 2017 — Kaohsiung Art Award, New Media Art, First Prize (Taiwan)
-- 2014 — Taipei Digital Art Award, First Prize (Taiwan)
+- 2014 Taipei Digital Art Award, First Prize
+- 2017 Kaohsiung Art Award, New Media Art, First Prize
+- 2019 Tung Chung Art Award
+- 2021 19th Taishin Arts Award, Visual Art Award
+- 2023 S+T+ARTS Nomination / Honorary Mention, Ars Electronica
 
-## Selected Recent Exhibitions
+## Recent Exhibitions
 
-- 2025 — Sónar+D, Barcelona, Spain
-- 2023 — ARS Electronica, Linz, Austria
-- Solo and group exhibitions across Taiwan, Netherlands, Slovenia, Norway, Italy, Germany, France, Austria, and Korea.
-
-For the complete exhibition history, education, and residencies, see the CV page: https://chenghsienyu.com/cv/
+- 2023 Ars Electronica (Linz, Austria)
+- 2025 Sónar+D (Barcelona, Spain)
+- Solo and group exhibitions across Taiwan, the Netherlands, Slovenia, Norway, Italy, Germany, France, Austria, and Korea.
 
 ## Keywords
 
-HsienYu Cheng, 鄭先喻, Taiwanese artist, Kaohsiung artist, new media art, interactive installation, software art, bio-electronic art, human-machine interaction, contemporary digital art, Taishin Arts Award, ARS Electronica, S+T+ARTS, Sónar, Taipei Digital Art Award, Kaohsiung Art Award.
+HsienYu Cheng, 鄭先喻, Taiwanese artist, Kaohsiung artist, new media art, interactive installation, software art, bio-electronic art, human-machine interaction, contemporary digital art, Taishin Arts Award, Ars Electronica, S+T+ARTS, Sónar, Taipei Digital Art Award, Kaohsiung Art Award
 
-## Contact
+## Works by year
 
-Email: 0x5a@chenghsienyu.com
-Website: https://chenghsienyu.com
-Press kit: linked from the CV page at https://chenghsienyu.com/cv/
+### 2025
+- [Traced](https://chenghsienyu.com/traced/)
 
-## License
+### 2024
+- [There Will Be Works](https://chenghsienyu.com/there-will-be-works/)
+- [Credit Makes You Free](https://chenghsienyu.com/credit-makes-you-free/)
+- [todayisnotwhatyoulike](https://chenghsienyu.com/todayisnotwhatyoulike/)
 
-Site content is published under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) unless stated otherwise.
+### 2023
+- [Around 7 Meters is More Fun](https://chenghsienyu.com/around-7-meters-is-more-fun/)
+- [A slightly different browser](https://chenghsienyu.com/a-slightly-different-browser/)
+- [% consumption of computing](https://chenghsienyu.com/consumption-of-computing/)
+- [There is Another Capital Beneath the Waves](https://chenghsienyu.com/there-is-another-capital-beneath-the-waves/)
+
+### 2022
+- [Happens to Be Performing](https://chenghsienyu.com/happens-to-be-performing/)
+- [It Could Be You](https://chenghsienyu.com/it-could-be-you/)
+- [Annoyanony](https://chenghsienyu.com/annoyanony/)
+- [Minimal Input @ C-lab](https://chenghsienyu.com/minimal-input-c-lab/)
+- [don't know... what do you think?](https://chenghsienyu.com/dont-know-what-do-you-think/)
+
+### 2021
+- [證件照拍攝指南](https://chenghsienyu.com/photo-of-id/)
+- [Revenge Scenes](https://chenghsienyu.com/revenge-scenes/)
+- [Game of Life](https://chenghsienyu.com/game-of-life/)
+- [Crystal Seeding](https://chenghsienyu.com/crystal-seeding/)
+
+### 2020
+- [discharge what you charged: room edition](https://chenghsienyu.com/discharge-what-you-charged-room-edition/)
+- [invariable variation](https://chenghsienyu.com/invariable-variation/)
+- [de centralize](https://chenghsienyu.com/de-centralize/)
+- [We are just saying what you are ruling](https://chenghsienyu.com/we-are-just-saying-what-you-are-ruling/)
+- [Taipei Robot Man 2.0: Infodemic](https://chenghsienyu.com/taipei-robot-man-2.0-infodemic/)
+
+### 2019
+- [Hijacker:{，} ](https://chenghsienyu.com/hijacker/)
+- [Discharge what you charged](https://chenghsienyu.com/discharge-what-you-charged/)
+- [Others - Assimilator](https://chenghsienyu.com/others-assimilator/)
+
+### 2016
+- [Sandbox](https://chenghsienyu.com/sandbox/)
+- [Second Life: Habitat](https://chenghsienyu.com/second-life-habitat/)
+- [Untitled: The result](https://chenghsienyu.com/untitled-the-result/)
+
+### 2015
+- [Hobo](https://chenghsienyu.com/hobo/)
+- [Artist’s daily job](https://chenghsienyu.com/artists-daily-job/)
+- [We all love Foucault & Deleuze](https://chenghsienyu.com/we-all-love-foucault-and-deleuze/)
+- [isISis](https://chenghsienyu.com/isisis/)
+- [The terminal disagrees](https://chenghsienyu.com/the-terminal-disagrees/)
+
+### 2014
+- [Rc_bOAT](https://chenghsienyu.com/rc_boat/)
+- [Dish on Fish](https://chenghsienyu.com/dish-on-fish/)
+- [portrait 2014](https://chenghsienyu.com/portrait-2014/)
+- [MissionFailed](https://chenghsienyu.com/missionfailed/)
+
+### 2013
+- [portrait 2013 - Douglas Engelbart](https://chenghsienyu.com/portrait-2013-douglas-engelbart/)
+- [Afterlife ver. 2.0](https://chenghsienyu.com/afterlife-ver-2.0/)
+
+### 2011
+- [Afterlife](https://chenghsienyu.com/afterlife/)
+- [portrait 2011](https://chenghsienyu.com/portrait-2011/)
+
+### 2009
+- [heartcoke](https://chenghsienyu.com/heartcoke/)
+
+## Solo exhibitions
+
+- [[.user            ]](https://chenghsienyu.com/user/)
+- [% consumption of computing](https://chenghsienyu.com/consumption-of-computing/)
+- [Eyes, Ears, Nose, Tongues...those parts](https://chenghsienyu.com/eyesearsnose-tonguesthose-parts/)
+- [Revenge Scenes](https://chenghsienyu.com/revenge-scenes/)
+- [Injector after Null](https://chenghsienyu.com/injector-after-null/)
+- [Assimilator](https://chenghsienyu.com/assimilator/)
+- [Injector before Null - Sandbox](https://chenghsienyu.com/injector-before-null-sandbox/)
+- [Second Life: Habitat](https://chenghsienyu.com/second-life-habitat/)
+- [1ed6318fc5481dda3ded... - 2016](https://chenghsienyu.com/1ed6318fc5481dda3ded-2016/)
+- [Collector - 收集者](https://chenghsienyu.com/collector/)
+
+## Review & News
+
+### 2024
+- [It Could Be You, digital identities close to you](https://neural.it/2024/04/it-could-be-you-digital-identities-close-to-you/)
+
+### 2022
+- [VOP Issue 31：技術邏輯 Technologic](https://vopmagazine.com/vop031/)
+
+### 2021
+- [鄭先喻個展「injector after Null」：It's the song, not the singer](https://mag.ncafroc.org.tw/article_detail.html?id=297ef72279c1c94e0179f8b5fbf20000)
+- [《證件照拍攝指南》中的身份與主體生成問題](https://artouch.com/views/content-41632.html)
+- [Transitions, Articulated and Experienced](https://nomanisanis.land/null-exhibition-review/)
+
+### 2020
+- [鄭先喻《來生 Afterlife Ver. 1.0》到《台北機電人 2.0：訊息瘟疫》——殺死越多，來生越多](https://www.biosmonthly.com/article/10559)
+- [不再超現實的夢境：鄭先喻《Hijacker:｛，｝》中的現實製造問題](https://www.hongfoundation.org.tw/news-article-item/tung-chung-prize-item-review-assimilator-theaffairs-wang-po-wei)
+- [To Think and Imagine in the Digital Basho: Review on Cheng Hsien-Yu’s ASSIMILATOR 在數位場所裡觸發思想：評鄭先喻的《同化者》](https://www.heath.tw/nml-article/to-think-and-imagine-in-the-digital-basho-review-on-cheng-hsien-yus-assimilator/)
+- [When is your last time you put the phone down? ｛Assimilator｝,solo exhibition by Hsien-Yu CHENG.](https://web.archive.org/web/20231002155452/https://theartpressasia.com/2020/06/22/when-is-your-last-time-you-put-the-phone-down-%EF%BD%9Bassimilator%EF%BD%9Dsolo-exhibition-by-hsien-yu-cheng/)
+
+### 2018
+- [The Question of Institutional Split: Review on Cheng Hsien-yu’s “Sandbox”](https://www.heath.tw/nml-article/thequestionofinstitutionalsplitreviewonchenghsien-yussandbox/)
+
+### 2017
+- [藝術，不存之地　忠泰美術館當代藝術展](https://artouch.com/views/content-1116.html)
+
+### undated
+- [生命中不能寫實之輕：鄭先喻《Afterlife Ver.2.0－生命的來來去去》中的抽象意識](https://web.archive.org/web/20241113211201/https://issuu.com/vtartsalon/docs/very_view_09)
+
+## Full work texts
+
+### Traced
+
+URL: https://chenghsienyu.com/traced/
+Date: 2026-02-08T13:42:13.691Z
+Tags: 2025, Project & Work, Solo Exhibition, Works
+
+Traced 光蹤
+
+(圖：北藝中心提供)
+
+存在與顯現,或者說被看見——日常中總有許多我們不曾察覺的瞬間。
+
+《光蹤 Traced》是一件由人工智慧驅動的光線裝置，透過電腦視覺與即時人體追蹤，使一道聚光燈在空間中跟隨每一位行人。作品將監控的邏輯轉化為一種詩意的「見證」行為——同時也直面其陰暗的另一面：在人類將決策交付給自動化系統的時代，道德與同理心的身體感或許正悄悄流失，扣下板機也可能變得前所未有地容易。《光蹤》追問：「被看見」意味著什麼？而當我們讓機器代替我們去「看」，又意味著什麼？
+
+作品說明
+
+《光蹤 Traced》是一件由人工智慧驅動的光線裝置，讓平凡的行人成為片刻的主角。裝置運用人工智慧與機器學習驅動的影像系統，控制電腦燈具，形成一種如同自動追蹤聚光燈（follow spot）的效果。當行人進入感應區域，電腦視覺即偵測其存在，一道專業舞台燈光隨之鎖定並跟隨他的每一步移動——使每位參與者化身為表演者，讓平時隱沒於人群中的身影，瞬間被賦予重量與意義。
+
+作品的核心在於即時 AI 分析與動態燈光的整合。系統建立於自製的模組化 AI 管線之上，以每秒 30 影格、低於 50 毫秒延遲運作，整合即時人體偵測、多人追蹤、低光源自適應增強與 DMX 燈光控制——擷取並處理空間資料，再轉譯為燈具的運動參數，實現流暢而精準的追蹤。其關鍵技術創新——「像素優先」追蹤法——免除了複雜的三維空間校正，使系統可部署於從私密展間到大型公共空間的各種場域，並穩定適應藝術空間中充滿挑戰的環境條件。
+
+在這裡，光成為一種見證的形式——它不評判、不定義，只是跟隨。這個看似簡單的行為提醒著我們：或許，存在本身就已足夠。這份經驗私密而直接，溫柔地將觀者從人群中托起。有人感到驚訝，有人感到自在，也有人突然意識到——原來「被看見」是這種感覺。它帶著遊戲般的趣味，像站上舞台，使平凡的移動變得不凡。而當光束隨著離去而漸漸淡去，那個被照亮的片刻仍留存於記憶之中，如一道安靜而持久的印記。
+
+然而，在這情境之下，藏著一層刻意的不安。作品所運用的機制——偵測、追蹤、跟隨——正是在他人手中用以標記、側寫、鎖定目標的同一套邏輯。在 AI 的時代，我們愈來愈頻繁地將決定交付給代理自動化工具：注意什麼、跟隨誰、在何處行動。每一次的交付，那份伴隨抉擇而來的道德重量與身體感——遲疑、共感——便又稀薄一分。行為與後果之間的距離不斷累積，責任消融於管線與參數之中。當系統負責瞄準、人類只需確認，扣下板機變得更加容易——彷彿那個決定，早已由別人、或別的什麼，替我們做完了。當沒有人「感覺」到那個決定，冷漠便變得容易，殘酷也隨之成為可能。《光蹤》刻意將這套裝置轉向關照而非控制——並非為了替技術開脫，而是要讓它的雙重性現形，並以此點出與批判這種趨勢：系統本身並不選擇溫柔或殘酷——選擇的是我們，在我們如何建造與部署它的時候。
+
+在一個感測系統無所不在、追蹤已成為隱形基礎設施的時代，作品邀請觀者思考：「被看見」究竟意味著什麼——是肯定、是意義的賦予，還是匿名庇護的喪失？被看見不僅是存在的確認，或許更是存在本身的完成。它可以是認可、是對話的開端、是我們與世界連結的方式，也是我們宣告「我在這裡」的瞬間。當我們離開光束、重返陰影，我們對自己——以及對那些注視著我們的系統——的理解，或許早已改變。
+
+(圖：北藝中心提供)
+
+Existence and emergence, or being seen—there are many moments in daily life we never notice.
+
+Traced is an AI-driven light installation in which computer vision and real-time person tracking cause a spotlight to follow each pedestrian through space. The work turns the logic of surveillance into a poetic act of witnessing — while also confronting its darker double: in an age when humans delegate decisions to automated systems, the embodied sense of morality and empathy may quietly erode, and pulling the trigger may become easier than ever. Traced asks what it means to be seen, and what it means to let machines do the seeing for us.
+
+Project Description
+
+Existence and emergence, or being seen — there are many moments in daily life we never notice.
+
+Traced 光蹤 is an AI-driven light installation that transforms ordinary pedestrians into momentary protagonists. Using an AI and machine learning-driven imaging system to guide computer-controlled lights, the installation creates an effect akin to an automated follow-spot. As pedestrians enter the active zone, computer vision detects their presence, and a beam of professional moving light locks onto them and begins following their every movement — transforming each participant into a performer, allowing figures usually hidden in the crowd to suddenly be given weight and meaning.
+
+The work's core lies in the integration of real-time AI analysis and dynamic lighting. Built on a custom modular AI pipeline operating at 30fps with under 50ms latency, the system integrates real-time person detection, multi-person tracking, adaptive low-light enhancement, and DMX lighting control — capturing and processing spatial data, then translating it into motion parameters for the lights to achieve fluid and precise tracking. A key technical innovation — "pixel-priority" tracking — eliminates complex 3D spatial calibration, making the system deployable across spaces from intimate galleries to large public venues, and reliably adaptable to the challenging conditions of artistic spaces.
+
+Here, light becomes a form of witnessing — it doesn't judge or define, it simply follows. This seemingly simple act reminds us: perhaps existence itself is enough. The experience is personal and direct, gently elevating viewers from the crowd. Some feel surprised, some feel at ease, and some suddenly realize — this is what being seen can feel like. It feels playful, like being on stage, transforming ordinary movement into something extraordinary. And as the beam gradually fades with their departure, that illuminated moment lingers in memory, like a quiet but lasting mark.
+
+Within this scenario lies a deliberate unease. The mechanism at work — detect, track, follow — is the same logic that, in other hands, flags, profiles, and targets. In the age of AI, we increasingly entrust decisions to agentic, automated tools: what to notice, whom to follow, where to act. With each handover, the embodied sense of moral weight — the hesitation, the empathy felt in the moment of choosing — grows a little thinner. Distance accumulates between act and consequence; responsibility dissolves into pipelines and parameters. When the system points and the human merely confirms, pulling the trigger becomes easier — the decision feels as though it has already been made by someone, or something, else. When no one feels the decision, indifference becomes easy, and cruelty becomes possible. Traced turns this very apparatus toward care instead of control — not to redeem the technology, but to make its double nature visible and to critique this drift: the system does not choose to be gentle or cruel; we do, in how we build and deploy it.
+
+In an era saturated with sensing systems — where tracking has become invisible infrastructure — the work invites contemplation on what "being seen" truly means: affirmation, the bestowal of meaning, or the loss of anonymity's shelter? Being seen is not merely confirmation of existence, but may be the completion of existence itself. It can be recognition, the beginning of dialogue, our way of connecting with the world, and the moment we declare: I am here. When we leave the beam and return to shadow, our understanding of ourselves — and of the systems watching us — may have already changed.
+
+---
+
+### There Will Be Works
+
+URL: https://chenghsienyu.com/there-will-be-works/
+Date: 2024-10-13T20:29:09.701Z
+Tags: 2024, Project & Work, Works
+
+There Will Be Works. - > There Might Not Be Works.
+
+承諾與落空 Promise and Disappointment藝術家宣稱「將會有作品」在某處 The artist claims "there will be works" at certain locations觀眾帶著期待前往GPS定點 Audiences arrive at GPS coordinates with anticipation但現場根本沒有預設的藝術作品 But there are no preset artworks on site認知的轉換 Cognitive Transformation軟體頁面要求觀眾「拍下他們認為最像作品的照片」 The software page asks audiences to "photograph what they think most resembles an artwork"觀眾被迫在日常環境中自己定義什麼是藝術 Audiences are forced to define what art is within their everyday environment這個「被迫創作/詮釋」的過程才是真正的作品 This process of "forced creation/interpretation" is the actual artwork重構現實 Reconstruction of RealityPhotos are uploaded to 照片上傳到 https://therewillbeworks.com/pages/works.html.AI生成描述，賦予這些日常影像「作品」的地位 AI generates descriptions, granting these everyday images the status of "artworks"完成從「沒有作品」到「可能不會有作品」到「作品被創造出來」的循環 Completing the cycle from "no works" to "there might not be works" to "works are created"
+
+Concept & Description
+
+There Will Be Works is an artistic project that explores the relationship between presence and absence. By strategically placing artworks in specific areas at irregular intervals without revealing their exact locations, the project invites audiences to actively search for or stumble upon the works. The time and place of the works’ appearances remain unknown, creating a sense of uncertainty and anticipation. The process of searching itself becomes an integral part of the artwork, while the contrast between discovery and non-discovery shapes the core of the experience.
+
+After experiencing There Will Be Works, audiences will be guided to the next phase through a mobile web page—There Might Not Be Works. This extension of the project encourages participants to engage in street and documentary-style photography based on GPS coordinates within the city. By blurring the boundaries between artwork and everyday surroundings, the project prompts reflection on what can be considered a work of art.
+
+Once a photograph is taken, it will be uploaded to the There Might Not Be Works platform, where a customized language model will analyze and interpret the image. This AI-generated textual description assigns new narratives and meanings to the photograph, further expanding the definition of "artwork."
+
+Together, these two components form a dynamic artistic experience—transitioning from passive searching to active creation, and finally to machine interpretation and reconstruction. Through these shifting roles, the project creates an open-ended dialogue exploring the intersections of contemporary art, machine learning, and audience participation.
+
+Project Explanation & Guidelines
+
+There Will Be Works strategically places artworks in various locations at irregular intervals without disclosing their exact positions. This project creates a space for exploration and engagement, evolving over time. Viewers may actively seek out the works or encounter them by chance, making the process of discovery an essential part of the artwork itself. The project questions the presence and absence of artworks while investigating the boundaries between expectation and fulfillment.
+
+The title implies a promise, yet the time and place of the works remain unknown. In this way, the project constructs a scenario of "there will be works," prompting audiences to contemplate the nature of experience and their role in it. The works may be left in place, abandoned, or reclaimed. Additionally, different combinations of works will lead to varied content and interpretations.
+
+There Might Not Be Works, a related web-based conceptual artwork, extends the ideas of There Will Be Works. This project guides participants through urban spaces via GPS coordinates, encouraging them to create street and documentary-style photographs with the assistance of machine learning.
+
+Instructions & Rules
+
+For more details, visit the project website: therewillbeworks.com.
+
+The artist will announce the presence of works in various locations (but no, the artist won't set up physical works anywhere), but their exact form and position will remain undisclosed. Viewers must navigate to these locations using their mobile devices via GPS. Upon arrival, the web page will provide further instructions and details.
+
+The works will remain in place until they are damaged, taken, or removed—but there may also be no work present at all.
+
+Once a work disappears, a notice will be issued to announce that it is no longer on-site.
+
+概念與說明
+
+《將會有作品》是一個探索「存在」與「缺席」之間關係的藝術計畫，透過不規則地放置藝術作品於特定區域，邀請觀眾主動尋找或偶然發現。作品的出現時間與地點不會被預先揭示，創造了一種不確定性與期待感。參與者在尋找作品的過程中，成為作品的一部分，而發現與未發現之間的落差，也構成了體驗的核心。
+
+體驗過《將會有作品》後，觀眾將透過手機網頁進入下一階段——《可能不會有作品》。此作品引導觀眾根據GPS定位，在城市中進行街頭攝影與紀實風格的拍攝。這一過程模糊了藝術作品與日常環境的界限，讓觀眾開始思考：究竟什麼能被視為作品？
+
+拍攝完成後，影像將被上傳至《可能不會有作品》的網頁，並經由一個客製化的語言模型分析與闡述照片內容。這個語言模型將基於觀眾的影像，生成一段描述，試圖賦予照片一種新的敘事或詮釋，進一步延展「作品」的定義。
+
+這兩個部分共同構成了一種動態的藝術體驗——從被動尋找，到主動創造，再到機器的詮釋與重構，觀眾在其中的角色不斷轉換，最終形成一個開放的對話場域，探索當代藝術、機器學習與觀眾參與之間的關係。
+
+___________________________________
+
+《將會有作品》 以策略性的方式在特定區域內不定期放置藝術作品，而不公開其確切位置。此計畫提供了一個可供積極探索與參與的空間，並隨著時間推移而變化。觀者可以主動搜尋作品或偶然發現，而這些發現的過程本身亦成為作品不可或缺的一部分。此計畫探討了作品的「存在」與「缺席」，並探索了期待與實現之間的界限。
+
+作品的標題暗示了一種承諾，但作品出現的時間與地點卻始終未知。透過這種方式，計畫營造出「將會有作品」的情境，引導觀者思考經驗的本質以及觀眾在其中所扮演的角色。參與的作品可能被遺留在現場、被棄置，或被回收。此外，不同組合的作品將產生多樣的內容與詮釋。
+
+《可能不會有作品》 與 《將會有作品》 相關，為一件基於網絡的概念性藝術作品。此作品引導參與者駕車穿梭於城市之中，並透過機器學習技術創作街頭攝影或紀實風格的快照。
+
+計畫說明與規則
+
+更多詳情請參閱計畫網站：therewillbeworks.com.
+
+藝術家將宣告在許多不同的位置會有作品(但只是講講)，而觀眾運用手機到網路頁面，藉由GPS座標去接近作品，到達作品位置時，網路頁面會進一步引導提供指令與說明。＊＊＊形式與位置皆不事先公布＊＊＊。
+
+作品將保持原位，直到遭受破壞、被取走，或被移除，但也有可能沒有作品。
+
+一旦作品消失，將發佈通知告知該作品已不再現場。
+
+---
+
+### Credit Makes You Free
+
+URL: https://chenghsienyu.com/credit-makes-you-free/
+Date: 2024-09-12T09:07:21.295Z
+Tags: 2024, Project & Work, Works
+
+As the Key Culture Partner for the 2024 Taipei Dangdai Art Fair, the Hong Foundation commissions artist Cheng Hsien-Yu (recipient of its 2019 Tung Ching Prize) to transform a booth into bait with an ulterior motive: as potential collectors step into the space, the artwork is triggered, initiating the choice to trade. Within this global art market mechanism involving artists, galleries and collectors, Cheng Hsien-Yu assigns the power of “pricing” to all. This act of participatory pricing thus becomes an artwork in which everyone can play a part in determining its final asking price, which will become the artist’s commission fee, compelling us to reconsider the exchange values we arbitrarily set on human attributes such as pranks, inspiration, creativity, or art.
+
+主辦單位 Organiser／委託創作 Commissioned by
+
+多媒體設備贊助 Supporting Partner
+
+Panasonic台灣松下 ＆ 洪建全基金會 Hong Foundation
+
+尺寸依場地而定
+
+本計畫由洪建全基金會委託製作
+
+作為2024年台北當代藝術博覽會的「文化夥伴」，洪建全基金會特別委託藝術家鄭先喻（2019年「銅鐘藝術賞」得主）將展間本身化為一個別有用心的誘餌：當潛在藏家們步入這個空間，即會啟動作品機制，展開交易的抉擇。在這個連結藝術家、畫廊、藏家的全球性藝術博覽會中，鄭先喻將「定價」的權力交給在場的每個人，人人可貢獻一己之力決定作品的最終價碼，並成為藝術家的委託創作費用。定價的行為造就了作品本身，也迫使我們重新思考靈感、創造力、惡作劇或藝術等人類特質，以及我們在此之間擅自設置的價值交換。
+
+---
+
+### todayisnotwhatyoulike
+
+URL: https://chenghsienyu.com/todayisnotwhatyoulike/
+Date: 2024-04-15T17:50:41.727Z
+Tags: 2024, Project & Work, Works
+
+https://todayisnotwhatyoulike.today
+
+眾所周知，網上無窮盡的信息取得方式削弱了現代新聞媒體的權威性。因此，在社會中，對於什麼構成客觀標準或「事實」的共識也變得薄弱。一些評論家將歷史的這一點稱為「後真相」時代。個人或團體的觀點受到主流之外意見的影響並不本身證明公民生活的衰落。然而，當這些觀點受到算法生成的「過濾泡」影響時，這就令人擔憂。這些自動系統提供定制內容以支持商業或政治目的。政治如何從這種震撼中恢復？當民主思想家思考這些問題時，鄭先喻在當代心理捕捉和虛假信息傳播機制上提供了戲劇性的反思。他的新作使用定制軟體探索個性化信息服務和生成式人工智慧如何影響自我實現的問題。同時，作品也表明了信息並不等於知識。
+
+It is well known that access to a limitless variety of information online has undermined the modern news media’s authority. Consequently, agreement about what constitutes a public standard for objectivity or ‘facts’ has also weakened in society. Some commentators have labeled this point in history the ‘post-truth’ era. That individuals or groups should have their views influenced by opinions from outside the mainstream does not, itself, prove a decline in civic life. However, when such views are shaped by algorithmic ‘filter bubbles’—automated systems that feed users tailored content to support commercial or political ends—there is cause for concern. How does politics recover from the shock? As democratic thinkers consider such questions, Cheng Hsien-Yu offers a dramatic reflection on the mechanisms of psychological capture and spread of misinformation today. His new work uses custom software to explore how personalized information services combined with generative AI haunt questions of self-realization. At the same time, the work demonstrates that information does not equal knowledge.
+
+NETOPEN
+
+In order to open a new page in TFAM’s future, and to respond to the invention and application of new technologies in art creation or institutional systems in the digital age, we hope to establish the "TFAM Net.Open Platform" as a hub for the convergence and co-creation between art creators, computer engineers, scientists, arts administrators, and production teams.
+
+Curators and artists are invited to push the boundaries of virtual mediums and online spaces beyond physical exhibitions. The platform also integrates online and offline activities to provide audiences with more diversified channels to get closer to the core of the artists' creations. Through the art projects on the platform, we hope to unite the community that focuses on the development of cutting-edge technology and art, and hope that through the process of co-production and cooperation, we can foster the innovation of the museum in the aspects of knowledge, practice, technology, and system.
+
+COMMONING
+
+Please visit the offline project “Commoning” for more events at the Taipei Fine Arts Museum.
+
+---
+
+### % consumption of computing
+
+URL: https://chenghsienyu.com/consumption-of-computing/
+Date: 2024-01-16T21:03:34.574Z
+Tags: % consumption of computing, 2023
+
+名稱：％ consumption of computing
+
+Link to website.   Link for %
+
+Offline version - Video:
+
+簡述：
+
+近代社會推進的進程，從個人電腦、網際網路到手持智慧型裝置與伺服器網路應用等等，作為一連串爆發式的前進，從社群網路到未來無密碼登入與許多正在萌芽的web3應用，也漸漸將人的生物識別特徵逐一連結，甚至生活習慣與行為，人也從擷取資訊到已經像是作為原料或是糧食一樣的角色存在於網路世界與網路應用中，這樣的現象也帶動了全線上框架的發展與衍伸出許多不同的商業應用，現代人也漸漸的習慣享受與遊戲於虛擬世界所建構的環境中。
+
+作品為利用機器學習產出ＶＲ環景影像的自然場景，場景的產生基於使用者使用裝置瀏覽網路應用程式時，系統會記錄使用者裝置的電池狀態與容量百分比，去對應產生的ＶＲ場景風格，電池容量越低ＶＲ場景會趨近於天然與乾淨無破壞的景觀，反之如果電池容量百分比越高，場景則會趨近於人為破壞或是較為污染與負面的生態。作品同時也藉由紀錄伺服器端圖像與機器學習運算時所消耗的時間轉換為所消耗的電源功率，去產生圖表與視覺化資料，討論在大量依靠伺服器邊緣運算的當下，娛樂與資本的服務平台以及消費性的商品與市場所帶來的能源消耗與環境之間的平衡與破壞。
+
+經由這種使用觀眾實體裝置的物理參數（電池容量與狀態）去影響與控制虛擬實境產出的自然場景去象徵技術的發展與環境之間的關係，也凸顯未來在伺服器運算技術如何與能源消耗和環境之間的平衡進行融合，這類應用的發展需要大量的資源，包括能源、原材料和水，作品也希望表現出這類資源的開採和使用對環境產生了不可忽視的影響，也反映出未來人在虛實世界上的邊界會產生更多新的交互作用與影響，那些影響也藉由政治、社會狀態、環境等等範疇上不斷的出現在我們所處的現實上。
+
+Title: % Consumption of Computing
+
+Medium: VR headset, web application, machine-learning server-side application, game engine, display monitor.
+
+Brief Description:
+
+Modern society has advanced in a series of explosive leaps, from personal computers and the internet to handheld smart devices and networked server applications. From social networking to future passwordless login and many emerging Web3 applications, people's biometric features, and even their habits and behavior, are gradually being linked. Humans have gone from gathering information to being used as "material" or "food" in the digital world and internet applications. This phenomenon also boosts the development of an all-online framework and gives rise to many different commercial applications. Modern people are gradually getting used to enjoying themselves and playing in environments built in the virtual world.
+
+This work uses machine learning to produce VR panoramic images of natural scenes. The generation of the scenes is based on the battery status and capacity percentage of the user's device when browsing the web application. The lower the battery capacity, the more the VR scene will tend to resemble a natural and undamaged view, while a higher battery percentage will yield scenes that lean towards human-caused damage or more polluted and negative ecosystems. By recording the time consumed by server-side image generation and machine-learning calculations and converting it into power consumption, the work also generates charts and data visualizations. At a time of heavy reliance on server-side edge computing, it discusses the balance, and the damage, between the environment and the energy consumed by entertainment and capital service platforms, consumer goods and the market.
+
+The work utilizes the physical parameters (battery capacity and status) of the audience's device to influence and control the generation of natural scenes in the VR, symbolizing the relationship between technological development and the environment, and highlighting how future server computing technology might be balanced against energy consumption and the environment. The development of such applications requires large amounts of resources, including energy, raw materials, and water. The work hopes to express the significant impact that the extraction and use of such resources have on the environment. It reflects that in the future, the boundary between the virtual and real worlds is likely to generate more new interactions and influences, and these influences continually surface in our reality through politics, social conditions, the environment and other areas.
+
+---
+
+### There is Another Capital Beneath the Waves
+
+URL: https://chenghsienyu.com/there-is-another-capital-beneath-the-waves/
+Date: 2023-09-30T15:34:55.224Z
+Tags: 2023, Project & Work
+
+浪のしたにも都のさぶらふぞ
+
+《浪濤之下,亦有皇都》為山口媒體藝術中心(山口情報芸術センター,以下簡稱YCAM)與許家維、張碩尹、鄭先喻三位藝術家共創的新作。
+
+三位藝術家各自囊括臺灣重要藝術獎項,並屢屢獲邀參與國際展演而受世界矚目。近年三人攜手於藝術計畫中著眼臺灣日治時期糖業發展,回顧臺灣與日本在歷史上的關係與現代化之軌跡。此作延續前述藝術計畫,以隨著日本現代化如火如荼發展工業、催生國際商港「門司港」的北九州市為背景,搬演製作日本傳統偶戲「人形淨琉璃」與當代動畫連動共構之劇,再加上展場中的舞台組成影像與現場演出交織的大作。
+
+《浪濤之下,亦有皇都》作品舞台乃是二十世紀前葉隨日本現代化腳步如火如荼發展工業、催生國際商港「門司港」的北九州市門司區。今日門司區內的百年糖廠仍在營運中,且過去與虎尾糖廠曾屬同一個企業傘下,可見虎尾與門司兩鎮在歷史上的緊密連結。兩鎮另一共同點則是在二戰期間皆被視為戰略要塞,並在戰爭白熱化之際遭受大規模空襲。本作疊合門司與門司港的現代化、第二次世界大戰的歷史及在地流傳的平家異聞等跨時空又游離於事實與 傳說之際的題材,並使日本傳統偶戲「人形淨琉璃」、當代動畫技術、音樂與展覽現場演出等古今表演藝術交織共構。新作標題「浪濤之下,亦有皇都」,更是引用了《平家物語》中描述壇之浦戰爭的段落。
+
+本作中「操偶師與人偶」、「表演者與數位分身」象徵著「操縱與被操縱的關係」。而驅動這般不斷歷史重演又彼此拉鋸擺盪關係的驅動力又究竟為何?本作使傳統與當代藝術表現形式相織應和,在現實世界和虛擬世界往來穿梭的同時向觀者探問。
+
+撮影：山中慎太郎（Qsyum!）
+
+写真提供：山口情報芸術センター［YCAM］
+
+There is Another Capital Beneath the Waves is a collaborative work between the Yamaguchi Center for Arts and Media [YCAM] and artists Chia-Wei Hsu, Ting-Tong Chang, and Hsien-Yu Cheng.
+
+Individually, each of the artists has won major art awards in Taiwan and has been invited to take part in exhibitions around the world. In recent years, the three of them have been collaborating on a project exploring the memory of modernization and historical relations between Taiwan and Japan, inspired by aspects of industrial sugar production in Taiwan during the time of Japanese rule.
+
+There is Another Capital Beneath the Waves is a work that was realized as part two of Crystal Seeding (2021). It is set in Moji, a town in Kitakyushu where a sugar mill is still operating today. The exhibition looks from various angles at the memory of the two towns, which seem to be mirroring each otherʼs fate within the history of modernization in East Asia.
+
+The sugar mill in Moji, still operating today, used to be run by the same company that operated the mill in Huwei, Taiwan. This is how the two towns have been connected through sugar. Both were strategically important bases during the war, and they both suffered severe damage in air raids when the war intensified.
+
+In this work, the memories of war and modernization in Moji and Moji Port are portrayed by means of Japanese traditional joruri puppet theater, CG animation, music and live performance, while also overlapping with the famous local tale of the Heike clan. The title is in fact a line from the Heike Monogatari that describes scenes of the Battle of Dannoura.
+
+The movements of the puppet masters and puppets, performers and avatars, symbolically suggest the complexly tangled relationship of “controlling and being controlled.” What exactly is the driving force that has repeatedly generated this relationship throughout history? This is the question that this work inspires the viewer to explore through a mixture of traditional and contemporary styles, while moving back and forth between the real and the virtual world.
+
+Photo by Shintaro Yamanaka (Qsyum!)
+
+Courtesy of Yamaguchi Center for Arts and Media [YCAM]
+
+Cast: Bunraku Puppeteer: YOSHIDA Tamasuke, KIRITAKE Monyoshi, YOSHIDA Tamamichi (BUNRAKU-KYOKAI) | Tayu: TAKEMOTO Tomowaka | Shamisen Player: TANAKA Yumiko | Percussionist: Taikimen (YAMAZAKI Taiki) | Lab Researcher: ITO Takayuki* | VR Performer: SAKAI Haruka, CHEN Ciou-Ye
+
+Artistic Direction: HSU Chia-Wei, CHANG Ting-Tong, CHENG Hsien-Yu | Curation: YOSHIZAKI Kazuhiko* | Technical Direction: TOKISATO Mitsuru*, OWAKI Richi*, ITO Takayuki* | Project Management: CHAO I-Tian | Research & Shooting Coordination: IWAMOTO Fumiwo, IKEGAMI Takahiro (Mojiko Art Platform), CHAO I-Tian
+
+Sound Direction: HUI Tak-Cheung | Composition of Joruri and Taisho-koto: TANAKA Yumiko | Composition of Shamisen: TANAKA Yumiko, HUI Tak-Cheung | Sound Design: HUI Tak-Cheung | Sound Mix: HUI Tak-Cheung | Sound Support: TANAKA Yumiko
+
+Video Direction: HSU Chia-Wei | Shooting Direction: MORIUCHI Yasuhiro | Shooting Crew: MORIUCHI Yasuhiro, CHENG Yu-Chen, TOKISATO Mitsuru*, YAMAOKA Daichi*, OWAKI Richi* | Drone Shooting: SHIRASAWA Tetsuhiro | Motion Capture: OWAKI Richi*, TOKISATO Mitsuru* | 3D Scan: TAKAHARA Fumie*, TOKISATO Mitsuru* | Sound Recording: KASAI Toshihiko, KASE Takuma, NAKAUE Junji*, ITO Takayuki* | Lighting: TAKAHARA Fumie* | Costume Design: CHEN Hikky | Make-up: CHENG Hsien-Yu, CHEN Hikky | Production Stage Management: NG Clarence* | Instrument Design: CHANG Ting-Tong | Instrument Production: LIN Kuo-Wei, OWAKI Richi*, TOKISATO Mitsuru* | Alcohol Production: ITO Takayuki*, TAKAHARA Fumie*, OHTA Hazuki* | Set Design: CHANG Ting-Tong | Set Production: SUPER FACTORY, OWAKI Richi*, ANDO Mitsuhito*, ISHIZAKI Tomoko*, SHOBUN Ayumi* | Video Editing: HSU Chia-Wei | Video Coloring: YANG Tzu-Yi | VFX: TSAI Quint, YANG Tzu-Yi | CG Production: HANZAWA Tomoro | CG Animation: TOKISATO Mitsuru* | CG Animation Assistance: ITAKURA Hayato* | Performance Direction: CHANG Ting-Tong | Stage Management: NG Clarence* | Installation Design: CHANG Ting-Tong, CHENG Hsien-Yu | Media Sync System: NAKAUE Junji* | Coordination: MENON Kartika*, FUKUCHI Hikari*, NAKAJIMA Chisako
+
+Script: YANG Kai-Ting, CHANG Ting-Tong | Japanese Translation: IKEDA Lily Ai | English Translation: IWAMOTO Fumiwo, IKEGAMI Takahiro | Japanese Translation Support: YAMAMOTO Hiroki + h (Inu no senaka-za), TANAKA Yumiko | Subtitles: CHENG Yu-Chen, ITAKURA Hayato*
+
+Special Thanks: Mojiko Art Platform, Kanmon Seito Co. Ltd., Shin-Moji Saiseki Co. Ltd., Sankiro, Kitakyushu Film Commission, Taiwan Sugar Corporation Huwei Sugar Factory, all those in Moji and Mojiko who cooperated in the shooting
+
+This project received a grant from the National Culture and Arts Foundation.
+
+演員: 文樂傀儡操演者：吉田玉助、桐竹紋吉、吉田玉路（公益財團法人文樂協會）| 太夫：竹本友和嘉 | 三味線及大正琴演奏者：田中悠美子 | 打擊樂手：Taikimen（山﨑大輝）| 實驗室研究員：伊藤隆之*| 虛擬現實表演者：坂井遥香、陳秋燁 ※雙人演出
+
+藝術指導：許家維、張碩尹、鄭先喻 | 策展：吉﨑和彥* | 技術指導：時里充*、大脇理智*、伊藤隆之* | 專案管理：趙宜恬 | 研究拍攝協調：岩本史緒、池上貴弘（門司港藝術平台）、趙宜恬
+
+音樂指導：許德彰 | 浄瑠璃及大正琴作曲：田中悠美子 | 三味線作曲：田中悠美子、許德彰 | 打擊樂作曲：許德彰 | 音響設計：許德彰 | 音樂混音：許德彰 | 音樂協助：田中悠美子
+
+影像導演：許家維 | 攝影導演：森内康博 | 攝影：森内康博、鄭禹晨、時里充*、山岡大地*、大脇理智* | 無人機攝影：白澤哲浩 | 動作捕捉：大脇理智*、時里充*
+
+3D掃描：高原文江*、時里充* | 錄音：葛西俊彥、加瀬拓真、中上淳二*、伊藤隆之* | 照明：高原文江* | 服裝設計：陳必綺 | 化妝：鄭先喻、陳必綺 | 製作管理：クラレンス・ン* | 樂器設計：張碩尹 | 樂器製作：林國瑋、張碩尹、鄭先喻、大脇理智* | 酒類製造：伊藤隆之*、高原文江*、太田遥月* | 佈景設計：張碩尹 | 美術：超級工廠、大脇理智*、石崎智子*、正分あゆみ*、時里充* | 影像剪輯：許家維 | 色彩校正：楊子逸 | 視覺特效：蔡承錕、 楊子逸 | CG製作：半澤智朗 | CG動畫：時里充* | CG動畫助理：板倉勇人* | 表演指導：張碩尹 | 舞台監督：クラレンス・ン* | 影子戲佈置：安藤充人* | 裝置藝術設計：張碩尹、鄭先喻 | 媒體同步系統構建：中上淳二* | 協調：卡爾蒂卡・梅農*、福地ひかり*、仲島智紗子
+
+劇本：楊凱婷、張碩尹 | 日本語字幕翻譯：池田リリィ茜藍 | 英語字幕翻譯：岩本史緒 | 浄瑠璃日本語翻譯修整：田中悠美子 | 劇本日本語翻譯協助：山本浩貴＋ｈ（いぬのせなか座）、田中悠美子 | 字幕製作：鄭禹晨、板倉勇人*
+
+特別感謝：門司港藝術平台、關門製糖股份有限公司、新門司砕石工業股份有限公司、三宜樓、北九州電影委員會、虎尾糖廠、門司・門司港提供的拍攝協助
+
+本作品得到台灣國家文化藝術基金會的資助。
+
+---
+
+### A slightly different browser
+
+URL: https://chenghsienyu.com/a-slightly-different-browser/
+Date: 2023-09-30T15:27:16.408Z
+Tags: 2023, Project & Work, [.user          ]
+
+“A slightly different browser”透過模擬量子網路的加密方式，將網路使用者的動作（如滑鼠移動、滾動和點擊以及瀏覽器DOM的內容轉為光影）再透過模擬的量子加密的方式傳輸到展覽現場，將在另一空間中即刻轉換為視覺所見的物理光，以感官所見的物理光回歸至人類的直觀感受。操作瀏覽器時獲得的資訊即時性同時連動了直觀的視覺經驗。也同時運用量子科學和日常技術之間的交會去創造並且實驗新的感知和溝通表達方式。量子網路模擬強調了參與者行動的隱蔽性，而視覺效果的逃脫性則挑戰觀察者將視覺轉化為語言的能力。結果是一次對所見與不見之間的複雜關係、參與者和旁觀者之間的互動以及將量子概念與感知領域相結合的深入探索。
+
+"A slightly different browser" uses a simulated quantum network encryption method to transmit the actions of internet users (such as mouse movements, scrolling, clicking, and browser DOM content) as light and shadows to the exhibition site. Transmitted through simulated quantum encryption, these actions are instantly transformed into visible physical light in another space, bringing sensory perception back to human intuition. The information gained in real time while browsing is also linked directly to an intuitive visual experience. Additionally, the work explores the intersection of quantum science and everyday technology to create and experiment with new forms of perception and communication. The simulation of the quantum network emphasizes the secrecy of the participants' actions, while the elusiveness of the visual effects challenges the observer's ability to translate visual experiences into language. The result is a deep exploration of the complex relationship between the seen and the unseen, the interaction between participants and observers, and the integration of quantum concepts into the field of perception.
+
+Web browser download link:
+
+https://github.com/HsienYu/QMin/releases/tag/1.0.0
+
+seeing. Concealment and revelation, participation and observation, visual engagement and linguistic expression interact, challenging established notions of interaction, recording, and perception.
+
+Photos by Eslite Gallery
+
+---
+
+### Around 7 Meters is More Fun
+
+URL: https://chenghsienyu.com/around-7-meters-is-more-fun/
+Date: 2023-09-30T11:16:19.684Z
+Tags: 2023, Project & Work, [.user          ]
+
+“Around 7 meters is more fun”創造一個特殊的情境，藉由情境與限制，去轉變溝通方式。參與者為了理解展示的視覺效果，不僅需要仰賴觀察者的描述、描繪和表達，更需要這些來傳達意義。這種互動促進了參與者和觀察者之間更緊密的合作，彌合了所見和所未見之間的差距，重新定義了人類感知的多面性。其中也運用機器學習的方式，去限制操作參與者無法看見其自己創造的結果，而觀察者也無法運用相機紀錄其結果，這兩種規則去賦予軟體表現接近於人類的情感邏輯，藉由此方法，去製造特殊的感知與互動經驗，重新思考可見和不可見之間的關係。
+
+Description of the project
+
+Around 7 Meters is More Fun displays the image trajectory drawn in real time with a joystick onto a remote screen. While observers can see the images generated on a screen situated on the opposite end of a 7-meter-long structure, the participants who manipulate the joystick at the other end are deprived of this vision. The resulting images also cannot be captured or recorded. Consequently, participants must rely on the descriptions or expressions of the observers to conjure an unseen scene.
+
+The work creates a unique context that transforms communication by exploiting on-site elements and visuality constraints. In order to understand the visual effects generated, participants rely not only on the observers' descriptions, depictions, and expressions, but also on them to convey meaning. This interaction triggers a closer collaboration between participants and observers, bridging the gap between the seen and the unseen and redefining the multiplicity of human perception. Machine learning tools combine with prompts, objects and motion recognition software, restricting participants from seeing the output of their own interventions, and preventing observers from using their cameras to record these results. These two rules provide the software with a closer approximation to human emotional and social logic, creating a unique experience of perception and interaction from which to rethink the relationship between the visible and the invisible.
+
+In an environment saturated with internet information, where technology and media have significantly shortened attention spans, the way humans receive sensory stimuli has changed similarly on the informational level. Communication and comprehension are markedly different from the past. Around 7 Meters is More Fun enables observers or audiences to become witnesses, translating visual experiences into language and other non-visual forms of communication.
+
+This work involves two distinct machine learning models and algorithms. ReID (Person Re-Identification) aims to assist in remembering who is operating the joystick. When the operator approaches the screen, the system will erase the image. The system is able to recognise the individual for a certain period of time, even after he/she has left. Grounding DINO is used to detect image/video capture devices.
+
+Short project summary
+
+Around 7 Meters is More Fun displays the image trajectory generated by participants manipulating a joystick onto a remote screen. Only observers can see the images that appear on the screen; the participants themselves cannot see them, nor can the images be captured or recorded. Consequently, participants must rely on the descriptions or expressions of the observers to conjure an unseen scene. Here, I create a unique interactive situation that compels people to reconsider the distinctions and connections between the seen and the unseen.
+
+Photo by Eslite Gallery
+
+鄭先喻個展[.user ]｜2023 9/16 - 10/14｜誠品畫廊 from ESLITE GALLERY on Vimeo.
+
+---
+
+### Crystal Seeding
+
+URL: https://chenghsienyu.com/crystal-seeding/
+Date: 2023-01-01T14:57:40.373Z
+Tags: 2021, Project & Work
+
+等晶播種
+
+“Crystal Seeding” is a joint artwork of three artists, Chia-wei Hsu, Hsien-yu Cheng, Ting-tong Chang in cooperation with Huwei Sugar Factory, Taiwan. The project took cane sugar as a starting point, and was then developed by incorporating a puppet show, experimental music, sugar 3D printing technology and mechanical arms. Through this complicated yet interrelated network, this project aims to comb through Huwei’s history over the last one hundred years.
+
+The narrative for the video was adapted from the Japanized puppet show “Kurama Tengu” and was performed by the Sheng Ping Puppet Troupe. It combines both reality and the virtual to reveal the history of Huwei town. It is also interspersed with the performance of the composer, Tak-cheung Hui, at the Huwei sugar factory, transforming the factory into an on-site instrument. In this theater-like environment, the mechanical arm, 3D printer and aviation flag have all become actors in this play. They enter and exit the stage as the story unfolds, serving and portraying different “roles” and “incidents”.
+
+《等晶播種》為許家維、鄭先喻、張碩尹三位藝術家共同製作。本計劃與台糖虎尾糖廠合作，以蔗糖為引子，延伸出布袋戲、實驗音樂、糖3D列印科技與機械手臂，並在此複雜又彼此關聯的網絡中爬梳過去百年的小鎮歷史。​
+
+​
+
+影片裡的敘事改寫自皇民化布袋戲《鞍馬天狗》(Kurama Tengu)，由戲團昇平五洲園(Sheng Ping Puppet Troupe)演出，現實結合虛擬，訴說虎尾鎮歷史；影片穿插作曲家許德彰在虎尾糖廠內的演奏，將工廠轉化成現地「樂器」；在如同劇場的環境中，機械手臂、3D列印機、航空旗號均為劇目中的演員，隨著故事推演而入場出場，在舞台中扮演不同的「角色」與「事件」。
+
+Crystal Seeding from Ting Tong Chang on Vimeo.
+
+---
+
+### Happens to Be Performing
+
+URL: https://chenghsienyu.com/happens-to-be-performing/
+Date: 2022-12-31T21:16:51.210Z
+Tags: 2022, Project & Work
+
+本次作品『Happens to be performing』將由2019至今的軟體所蒐集到的網路留言資料庫中，建置文本語義模型，規劃每一週產出一次劇本生成，並視覺化文本再以現場的事務印表機裝置去藉由表演者，以隨機觸發劇本生成的方式，在現場取得列印出的文本，做出臨時並且即興的演出嘗試。
+
+＊作品源自2019年個展同化者中的無名作品，該作品前身也與張碩尹與廖銘和的臺北機電人2.0一展中，作為控制現場裝置與聲音以及顯示網路民眾即時留言與對話訊息展出，在發展時，原計劃為將網路民眾的留言與即時聊天訊息資料藉由機器學習，去制定出語意的模型與說話的方式，再由機器學習產出劇本。
+
+Happens to Be Performing originated from an untitled work in Cheng Hsien-Yu’s 2019 solo exhibition “Assimilator.” The earlier version of the work was also presented during Chang Ting-Tong and Liao Ming-Ho’s 2020 exhibition “Taipei Robot Man 2.0.” The work uses internet installations to extract messages and conversations of people on the internet, which are then transcoded into a driving force for the on-site installation and sound.
+
+This presentation takes a step further and incorporates machine learning to construct a semantic text model through a database of online messages that have been collected from 2019 to the present, to produce instant play scripts. This work was created in collaboration with choreographer/interdisciplinary artist Chen Wu-Kang, who activates the printers on site and plays chess with printed AI visual texts, leading to random and impromptu performances.
+
+---
+
+### Minimal Input @ C-lab
+
+URL: https://chenghsienyu.com/minimal-input-c-lab/
+Date: 2022-12-31T21:14:21.101Z
+Tags: 2022, Project & Work
+
+Event link: https://clab.org.tw/en/events/minimal_input_2022
+
+「我們正在談論你是如何統治」"We are just saying what you are ruling"鄭先喻 | 人工智慧生成音像 | 8'12" | 2020
+
+運用網路搜尋圖像與「機器學習」方式創作，大量即時抓取「人類破壞生態」關鍵字圖像，以第一人稱、也就是電腦以「我」譴責人類因開發、浪費、 貪婪而導致生態滅絕的圖像投影與字句，可怕的是，電腦經由「自主學習」並「增強更新」演算法與數據分析做出準確預測而逐漸成為「全知者」，多數人類乃至國家逐 漸無法操控數據反而被數據操控，並藉由特意使機器學習模型辨識錯誤，軟體會將污染與環境破壞圖像形容為美好的日常事物。
+
+---
+
+### It Could Be You
+
+URL: https://chenghsienyu.com/it-could-be-you/
+Date: 2022-12-31T21:09:44.980Z
+Tags: 2022, Project & Work
+
+It Could Be You
+
+“It Could Be You,” a provocative digital art installation by CHENG Hsien-Yu, delves into the intricate realm of digital identity and personal privacy. The artwork presents a critical examination of how personal data has become increasingly vulnerable in the digital era, prompting viewers to confront the subtle mechanisms of online surveillance and identity construction.
+
+The project illuminates the gradual erosion of personal privacy, exposing how individuals have inadvertently shared their most private information through social media platforms and digital interactions. Through the utilization of advanced machine learning and ethical hacking methodologies, the artwork transforms online forum messages and chat room interactions into a haunting portrayal of synthetic identity.
+
+Through a meticulous data collection and algorithmic manipulation process, the installation fabricates personal identities that blur the boundaries between reality and digital fiction. The artwork collects messages from various online platforms and employs advanced algorithms to construct synthetic portraits and personal details that are remarkably plausible. This approach transcends mere technical demonstration, serving as a profound commentary on the commodification of personal information.
+
+The physical manifestation of the project is both visually striking and conceptually rich. A dynamic matrix of animated facial images continuously morphs on screen, accompanied by three monochrome thermal printers that systematically produce fabricated identities. As synthetic portraits and personal details accumulate on the floor, the installation presents a tangible representation of how digital systems simplify human complexity into calculable patterns.
+
+“It Could Be You” confronts audiences with the unsettling reality of contemporary digital surveillance. The artwork exposes how machines process personal information with increasing sophistication and diminishing concern for authenticity. It unveils the algorithmic potential to create identities that are both fictional and unsettlingly convincing, prompting viewers to reevaluate their digital footprints.
+
+The installation offers an immersive journey into the mechanics of digital identity construction. Viewers witness a real-time demonstration of how personal data can be collected, manipulated, and synthesized, transforming abstract concepts of privacy invasion into a visceral, visual experience. The continuous generation of synthetic identities serves as a mirror reflecting the invisible processes that shape our digital existence.
+
+“It Could Be You” functions as a critical intervention in the discourse of digital privacy. It exposes the fragility of personal information in  an era of ubiquitous data collection, raising fundamental questions about consent, identity, and the increasingly algorithmic nature of human representation. The work challenges viewers to recognize how readily we surrender our personal narratives to digital systems.
+
+This work serves as an artistic statement, transforming intricate technological processes into a captivating visual narrative. By making the invisible mechanisms of data mining visible, the artwork invites critical contemplation on the essence of identity in our increasingly digital world.
+
+作品《這可能是你》以網路即時留言者暱稱作為搜尋臉部圖像的關鍵，藉由合成資料與機器學習，產出許多不同的臉孔以及假個資，創造出「這有可能是你」的情境假象，用以質問與顯現個人的數位足跡與龐大網路資料能夠作為軟體系統對於人類的想像。這種方式並非像透過光的折射，再藉由大腦的化學生理變化去理解畫面，而是藉由每一個Pixel dot（像素點），再經過演算方式的一連串處理，當電腦軟體將人形辨識為物件時，知道依據型態去定義人，再加上物件是否移動的邏輯，它能更確認這是個會動的人，而不是一個靜態的人型看板。軟體藉由參考行為與環境的參數及變化，增強對於物件或事件的定義。
+
+作品探討當代社會中個人隱私的流失。該作品審視了我們如何在不知不覺中，透過社群媒體的使用及智慧裝置的普及，放棄了資訊與空間上的隱私。
+
+透過機器學習與倫理駭客技術，這件裝置從線上論壇與聊天室中蒐集訊息，進而生成合成但令人不安地真實的身份。此創作方式結合了生成式人工智慧與合成資料生成，展示了算法如何製造出具備肖像、姓名、聯絡資訊與IP位址的逼真人物，模糊了數位虛構與現實之間的界線。
+
+實體裝置呈現出一個不斷變化臉部影像的動態矩陣，並搭配三台持續列印這些合成身份的單色熱感應印表機。隨著虛構身份紙張堆積在地上，形成了一種具象的視覺效果，象徵數位系統如何將人類的複雜性簡化為可計算的模式。
+
+《It Could Be You》透過將抽象的隱私議題轉化為直觀的視覺經驗，揭露了資料挖掘與算法身份建構背後看不見的機制。此作品挑戰觀者重新思考自己的數位足跡，並突顯一個令人不安的事實：處理我們數據的系統越來越無法——或許是不在意去——區分真實與合成身份。這項批判性的藝術干預，邀請人們反思同意、隱私以及生成式科技在重塑我們身份認知方面所扮演的角色，並思考在日益演算法化的世界中，個人身份的意義。
+
+作品源自2019年鄭先喻的個展｛同化者｝中無題作品之延伸，藉由網路伺服器端應用，搜尋並搜集地區性線上論壇與即時聊天室資訊，建立資料庫模型以及視覺產出。當網路鄉民一留言，系統運用發文或留言者的帳號去搜尋可能的個人資料與肖像照片，再藉由合成資料技術結合機器學習成像，產出一系列的假想個資。
+
+觀眾將於現場觀看網路鄉民即時訊息，現場列印機裝置則定時將合成的個人資料列印產出。
+
+The work "It Could Be You" uses the nicknames of online real-time commenters as key elements for searching facial images. Through synthetic data and machine learning, it generates various faces and fabricated personal information, creating a scenario of "It could be you." This is used to question and reveal individuals' digital footprints and how extensive online data can be utilized by software systems to imagine human characteristics. Unlike the way we understand images through the refraction of light and the subsequent chemical and physiological changes in the brain, this method involves processing each individual pixel dot through a series of algorithms. When the computer software recognizes a human form as an object and defines it based on patterns, along with logic to determine object movement, it can confidently identify it as a moving person rather than a static human-shaped signboard. By referencing parameters and variations in behavior and the environment, the software enhances its definition of objects or events.
+
+As a continuation of the untitled works featured in CHENG Hsien-Yu’s solo exhibition｛Assimilator｝ in 2019, It Could Be You employs internet servers to collect messages from regional online forums and chatrooms to create a database model and to generate visual images. When netizens post a message, the system will detect it and instantly search for any personal information and portraits available under the users’ IDs, with which it adopts and integrates the technology of synthetic data with machine learning to generate images as a series of imaginary and fictional personal data.
+
+Apart from the real-time and on-site display of the instant messages posted by netizens around the digital world, the installation will also print out the synthetic personal data at regular intervals.
+
+---
+
+### Annoyanony
+
+URL: https://chenghsienyu.com/annoyanony/
+Date: 2022-12-31T21:06:49.172Z
+Tags: 2022, Project & Work
+
+《Annoyanony》奠基在當代的資訊隱私的權利觀念，以及合成資料技術成熟的基礎上：創建出一組虛擬的電信電話號碼，及相對應的、通話方的視覺化個人資料，並藉由SIP（Session Initiation Protocol，對話啟動協定，用於營造即時多媒體互動會談功能）網路電話方式，隨機選取資料中的號碼進行通話，接通之後，將會藉由作品路由至同一線路，建立一個匿名的通話群組，讓兩端的通話者在不知情的情境下，開始一段與完全陌生對象的通話。若雙方過於沉默，作品中也有語音暗示的設定，以誘導通話雙方開始進行對話，進而產生一連串不確定性的通話內容。在展場的觀眾則可以藉由揚聲設備以及視覺影像，作為第三方完全旁觀這一場對話的全貌。鄭先喻則透過《Annoyanony》表達，當機器開始觸發、掌控如撥打電話等人類日常行為，其背後諸如隱私、倫理，甚至人類主體性等深層的焦慮和辯證。
+
+Annoyanony draws inspiration from the contemporary idea of one’s right to information privacy and is based on the maturing technology of synthetic data: the artist creates a set of virtual telephone numbers and the corresponding visualized personal data of the interlocutors. Using the internet communication technology known as “Session Initiation Protocol” (SIP, often used for real-time, multimedia interactive sessions), a phone call to a randomly chosen number in the data will be made. After the call is answered, it will be routed to the same line through this work, creating an anonymous call group. The interlocutors of the call then unknowingly engage in a phone call with each other, both strangers to one another. If the interlocutors stay silent for too long, the work will give audio cues to guide them to talk, and consequently produce a series of conversations, of which the content cannot be predicted. The audience in the exhibition, on the other hand, becomes a third party to observe the conversations through the audio equipment and visualization of the work. Through Annoyanony, the artist unveils deep anxieties over and dialectic about privacy, ethics, and even human subjectivity, when the machine starts performing and mastering everyday human behaviors, such as making a phone call.
+
+---
+
+### don't know... what do you think?
+
+URL: https://chenghsienyu.com/dont-know-what-do-you-think/
+Date: 2022-12-21T14:43:00.000Z
+Tags: 2022, Project & Work
+
+不知道⋯⋯你覺得勒？
+
+don't know... what do you think?
+
+作品為動態文字跑馬燈字幕裝置，藉由機器學習的技巧，去產出開頭為“我不知道”與結尾為“你覺得呢？”的字句，文字產出的模型為訓練200本電影劇本以及運用GPT3作為輔助去作為字句產出的方法。作品以“不知道⋯⋯你覺得勒？”作為字句框架去表現具有抽象並且荒妙的語境，希望藉由這種方式，讓觀眾在沒有太多線索的狀態中，藉由閱讀文字的行為體會無法預期的回饋，產出字句也會多以悲觀的情緒作為主軸。＊內容為運用GPT3 模型以劇作家 『姚一葦』姓名作為關鍵字詢問產出影像與文字資料。
+
+---
+
+### 證件照拍攝指南
+
+URL: https://chenghsienyu.com/photo-of-id/
+Date: 2021-06-29T13:02:27.102Z
+Tags: 2021, Works
+
+證件照拍攝指南
+
+Photo of ID
+
+Made with https://www.shodan.io and some other tools.
+
+---
+
+### Taipei Robot Man 2.0: Infodemic
+
+URL: https://chenghsienyu.com/taipei-robot-man-2.0-infodemic/
+Date: 2021-06-29T12:15:53.998Z
+Tags: 2020, Works
+
+Taipei Robot Man 2.0: Infodemic
+
+台北機電人2.0：訊息瘟疫
+
+“Taipei Robot Man 2.0: Infodemic” was a co-project created by Ting-Tong Chang, Hsien-Yu Cheng and Ming-ho Liao (Dino). They used digital technology to recycle “garbage information”, such as internet trolls’ posts and fake news, and turned them into material for driving a mechanical installation and noise performance. At both the Cube Project Space and Longquan market, the artists held a series of exhibition and performance events in order to explore how information is produced, processed, manufactured, exchanged, circulated and spread during this pandemic era.
+
+“Taipei Robot Man 2.0: Infodemic” originated from Hsien-yu Cheng’s internet installation “Assimilator”, which captured “garbage information” in real time, such as internet trolls’ posts and fake news, recycled and transcoded them, and then turned them into bunches of information that connected the Cube Project Space and Longquan market.
+
+Longquan market, a traditional market near Taipower Building Station, is open in the mornings, while this project’s week-long exhibition took place in the evenings, after the market had closed. The artists collaborated with the Laboratory of Fragrance and Perfume (LFP) to come up with the “Smell Installation”, which was driven by the “garbage information” and emitted various tailored spices along with the fluctuating signals. Also combining light, sound and images, the artwork transformed the market into a large-scale on-site installation. Through the olfactory, the auditory and the visual, its aim was to change the visitors’ spatial sensations.
+
+In the exhibition at the Cube Project Space, “garbage information” was transformed into music, while also driving Ting-tong Chang’s mechanical installation, which was created from electronic waste and the fresh vegetables and fruit of the market itself. These “instruments” collided with each other, conducting electricity and creating the sound field. This sound field sometimes played in ensemble with, and sometimes interfered with, the noise performance of Mingho Liao, aka Dino. Together, they created a disharmonious sound field among signals, waste, and food.
+
+Photo: Chun Teng Chu | Collaboration: Hsien-Yu Cheng and Ming-ho Liao (Dino)
+
+《台北機電人2.0：訊息瘟疫》為張碩尹、鄭先喻、廖銘和（Dino）的合作計劃，其利用數位科技將網路酸文與假資訊等「垃圾訊息」回收再利用，成為驅動機械裝置與噪音表演的創作材料，並在立方計劃空間與龍泉市場舉行系列展覽與表演活動，探討在疫情時代下資訊如何被製造、加工、生產、交換、循環與傳播。
+
+自武漢市華南海鮮市場到世界各地，菜市場（濕市場）為全球疫情路徑圖的起始點，在這個生鮮與腐敗、生命與死亡、人與動物共存的平台上，病毒、寄生蟲、細菌得以在血液與油脂之間跨物種傳播。濕市場也是網際網路的隱喻，在數位科技架構的虛擬空間中，意義、語言、文字、圖像如同病毒，傳染力強並且傳播快速的訊息瘟疫（infodemic）形塑了當代政治。從被刻意扭曲資訊所影響的2016年英國公投、遭網軍攻擊的法國2017年大選、到台海兩岸角力的資訊戰場，大量生產的偏頗訊息構築了一真假難解的後真實世界。而在疫情期間所流傳的5G傳病論、注射漂白水殺毒論、疫苗陰謀論，假訊息更構成大眾公共衛生威脅。
+
+《台北機電人2.0：訊息瘟疫》以鄭先喻的網路裝置《同化者》為起始點，其即時擷取網路酸文與假資訊等「垃圾訊息」，將其回收轉碼，成為連結立方計劃空間與龍泉市場等兩個場域的資訊串。
+
+龍泉市場位於台電大樓站，為一晨間營業的傳統市場。藝術家利用其夜間休業時間，舉行為期一週的展覽。「垃圾訊息」驅動藝術家與LFP香料香水實驗室共同製作的「氣味裝置」，其將跟隨著訊號的波動釋放多種特製香料，並結合燈光、聲音與影像，將市場轉化為一大型現地裝置，並透過嗅覺、聽覺與視覺改變觀者的空間感知。
+
+在立方計劃空間的展覽中，「垃圾訊息」則成為轉化為樂符，驅動張碩尹以電子廢料與菜市場生鮮蔬果所製作的機械裝置。這些「樂器」相互碰撞，彼此導電，創造音場，並和廖銘和（Dino）的噪音表演時而合奏、時而干擾，創造一訊號、廢料、食物之間的不協調音場。
+
+攝影：朱駿騰 合作：鄭先喻、廖銘和（Dino）
+
+---
+
+### Revenge Scenes
+
+URL: https://chenghsienyu.com/revenge-scenes/
+Date: 2021-06-29T12:04:37.630Z
+Tags: 2021, Solo Exhibition, Works
+
+Revenge Scenes
+
+Revenge Scenes by artists Su Hui-Yu and Cheng Hsien-Yu can be considered as a live art and installation work developed from Su’s earlier work, The Women’s Revenge. The work utilizes live streaming, augmented reality, and machine learning, among other techniques, to lead the audience back into the history of social realism films and (female) exploitation films in the 1980s, where it highlights the ambiguous similarities between social media culture and exploitation films through the juxtaposition of the two. The work depicts the contemporary media society’s portrayal of the body and further questions the issue of body politics under new media technology. Revenge Scenes features live performances with augmented reality elements. Through the audience’s assistance in broadcasting, the images are shared on social media platforms and other locations where the videos are redeployed in real time.
+
+In its passive exhibition form, Revenge Scenes is transformed into the form of a crime scene instead of its performance version, where it continuously raises various questions about our history and future, such as:
+
+How long or how heavily have humans desired or depended on contents being “live”? Since the dawn of imaging technology, how have “messages” collaborated with (or challenged) reality? What is the current state of “mediatization” of our bodies? How else can we train our bodies? Under the assistance and influence of contemporary technology, can we further ease the tension and predicament in issues such as gender, sex, and physical body (even soul)?
+
+Following on the reasoning above, if we further question our body, after this transitional process involving body/signal, linear/non-linear, analog/codes, and followed by the targeted placement and manipulation at the end of the process, where will this finally lead us (and our desires) to? Can a future “technique of desire” be expected? Can this be a calculated spiritual transcendence, or become yet another self-surveillance, exposure, and betrayal of The Transparency Society?
+
+---
+
+### heartcoke
+
+URL: https://chenghsienyu.com/heartcoke/
+Date: 2021-06-29T11:48:56.789Z
+Tags: 2011 ~, Works
+
+[ heartcoke ]
+
+Brief:
+
+It can sense vital signs from the audience and use the heart rate as variables to generate images and sound.
+
+---
+
+### portrait 2011
+
+URL: https://chenghsienyu.com/portrait-2011/
+Date: 2021-06-29T11:48:04.017Z
+Tags: 2011 ~, Works
+
+[ portrait 2011 ] 肖像2011
+
+Brief:
+
+[ portrait 2011 ] is a robotic head made from recycled E-waste, and it senses how many people are in the exhibition space. If there are people in the exhibition space, it will start to move its face. But if no one is in the exhibition space, it will start to cry.
+
+“Only crying behind you”
+
+---
+
+### Afterlife
+
+URL: https://chenghsienyu.com/afterlife/
+Date: 2021-06-29T11:46:24.364Z
+Tags: 2011 ~, Works
+
+[ Afterlife ver. 1.0 ] 生命值量化1.0
+
+{ 現實世界的生命 <--裝置--> 虛擬世界的生命 }
+
+“想像生命就只是簡單的生命，無關於大小，形體，比例......”
+
+收集現實世界的生命，再將生命轉入虛擬的遊戲世界；遊戲中主要角色的生命與裝置收集到的生命數量相對等，裝置本身成為真實與虛擬生命之間的中介容器，裝置經由終結昆蟲生命的數量會藉由裝置上的顯示器以總累計數值的方式顯示，並對等轉生至遊戲中，成為昆蟲角色的生命量，反之當觀眾進行遊戲時所損失的生命數量也會減少裝置的收集總數，當顯示器的總數達到0時，遊戲則無法進行，裝置會要求等待收集新的生命。
+
+“Life is simply life; it has nothing to do with size, form, or scale.”
+
+In this project, I explore the scale of life by allowing the work to collect lives and transfer them into a virtual environment, creating a kind of afterlife. The virtual environment is a game called “Life Invader”. On the device, a display shows the amount of life collected by the installation, and this amount becomes the hero’s life in the game. So if a visitor plays the game and the hero loses life, the number on the display decreases. When the number reaches “0”, the installation itself has to collect new lives before the game can continue.
+
+Real life from the physical world  <—>  Afterlife in the virtual environment
+
+---
+
+### Afterlife ver. 2.0
+
+URL: https://chenghsienyu.com/afterlife-ver-2.0/
+Date: 2021-06-29T11:14:24.823Z
+Tags: 2013, Works
+
+[ Afterlife ver. 2.0 ] 生命值量化2.0
+
+Brief:
+
+[ Afterlife ] is an electronic installation that collects life from the physical world by counting the insects killed by the device, then transfers that count into a game called “life invader.” In this adaptation of Space Invaders, humans are the invaders and the player controls an insect defending itself against them. If the player is terminated, the counter will decrease the amount, and when the amount reaches zero, the installation will ask people to wait for life from our physical world.
+
+That also means you have to wait for insects to be killed by the anti-insect lamp on the installation.
+
+“ Life shouldn't be about size, scale, value, ... ”
+
+---
+
+### portrait 2013 - Douglas Engelbart
+
+URL: https://chenghsienyu.com/portrait-2013-douglas-engelbart/
+Date: 2021-06-29T11:13:04.384Z
+Tags: 2013, Works
+
+[ portrait 2013 - Douglas Engelbart ] 肖像2013_
+
+Brief:
+
+[ portrait 2013 - Douglas Engelbart ] is an installation in honour of Douglas Engelbart. It’s an operating system into which you can plug 88 computer mice, which means every mouse has its own cursor on the screen and everyone can control them at the same time.
+
+“One computer, one web browser, many cursors, many computer mice; people surf the net and interact with HID devices together at the same time.”
+
+The first commercial personal computers appeared in the ’60s; at that time, computers had only a keyboard as their interface for executing commands. Since graphical operating systems began, the computer mouse has served as a pointing device, surfing a two-dimensional world until now. It was invented by Douglas Engelbart, who was an early computer and internet pioneer. He is best known for his work on the challenges of human-computer interaction, and also contributed to the development of hypertext, networked computers and precursors to graphical user interfaces.
+
+When Douglas Engelbart died in 2013 at the age of 88, I decided to make a work in his memory. I make a portrait work every year as part of my own artistic practice. In the beginning, I started to think about cloud computing and today's social networks. Current social media platforms are built on time-based status feeds; it’s a comfortable user experience which lets people feel and understand the latest activities of their friends or companies. But I asked myself whether there was some other way to make people feel something much more directly; that would be interesting. And if cloud computing could be more than just sharing data and co-working, that would be wonderful for me. At that point, I made a non-personal web browser to express my thoughts: “How chaotic would it be if people could surf the internet at the same time?” “The fastest commander will be the person who clicks the mouse first.” “The web media can be true or false.” This project is a computer with 88 computer mice, and every mouse is fully functional. The audience can choose and surf online content on certain pages automatically generated by custom software. If the mice have been idle for 10 minutes, the mouse cursors on the screen arrange themselves into the figure of Douglas Engelbart. These web pages are related to online computer mouse tutorials and to Douglas Engelbart. I try to create an environment which is different from the regular way of using a personal computer, using this humorous setup to let people feel and think about what the next level of the human computing environment will be and how media or social media affect our society.
+
+This project has now been extended: I am developing a web browser plugin as a new social platform which allows people to see their friends’ mouse cursors in their browser and interact with them. I think this is a kind of physical activity that lets people in front of a screen catch the feeling of the “being” of their friends.
+
+---
+
+### MissionFailed
+
+URL: https://chenghsienyu.com/missionfailed/
+Date: 2021-06-29T11:08:06.030Z
+Tags: 2014, Works
+
+[ MissionFailed ]
+
+Brief:[ MissionFailed ] is a custom first-person computer game.
+
+---
+
+### portrait 2014
+
+URL: https://chenghsienyu.com/portrait-2014/
+Date: 2021-06-29T11:06:11.614Z
+Tags: 2014, Works
+
+[ portrait 2014 ] 肖像2014
+
+Brief:
+
+[ portrait 2014 ] is a sound installation that generates an electromagnetic field to push and pull the iron balls in an acrylic bowl.
+
+---
+
+### Dish on Fish
+
+URL: https://chenghsienyu.com/dish-on-fish/
+Date: 2021-06-29T11:04:52.447Z
+Tags: 2014, Works
+
+[ Dish on Fish ] 盤中魚
+
+Brief:
+
+Copy Series - (1)
+
+This series of works presents some classic works by other artists in different media. "dish on fish" is a work copying "fish on dish" by Goang-Ming Yuan.
+
+[ Dish on Fish ] is a robotic installation: a plate that moves constantly on the floor.
+
+---
+
+### Rc_bOAT
+
+URL: https://chenghsienyu.com/rc_boat/
+Date: 2021-06-29T11:00:32.987Z
+Tags: 2014, Works
+
+[ Rc_bOAT ]
+
+“An island always goes to the right”
+
+Brief:
+
+The idea was that Taiwanese people could find a way to turn the island of Taiwan into a floating country to avoid being bothered by the People's Republic of China, and [ RC_bOAT ] is a remote-control model that expresses this idea as a starting point, or an experiment in fluid mechanics.
+
+Because of the island's shape, it is difficult to turn left. It always turns right and spins clockwise.
+
+---
+
+### The terminal disagrees
+
+URL: https://chenghsienyu.com/the-terminal-disagrees/
+Date: 2021-06-29T10:59:14.144Z
+Tags: 2015, Works
+
+[ The terminal disagrees ]
+
+Brief:
+
+[ The terminal disagrees ] is a short script written in Python and Perl that makes the terminal window shake horizontally.
+
+It also changes the background colours repeatedly and shows the text “disagree colours on the screen”, and it can be a metaphor for the political situation.
+
+---
+
+### isISis
+
+URL: https://chenghsienyu.com/isisis/
+Date: 2021-06-29T10:57:33.815Z
+Tags: 2015, Works
+
+[ isISis ]
+
+Brief:
+
+[ isISis ] is a generative video artwork that collects image data related to ISIS and the Japanese manga iS’ from the internet, and moshes them together by data bending to generate random glitch video.
+
+---
+
+### We all love Foucault & Deleuze
+
+URL: https://chenghsienyu.com/we-all-love-foucault-and-deleuze/
+Date: 2021-06-29T10:55:56.219Z
+Tags: 2015, Works
+
+[ We all love Foucault & Deleuze ]
+
+Brief:
+
+[ We all love Foucault & Deleuze ] is web-crawler software, presented as an installation, that mines how many times people in Taiwan search for the names Foucault & Deleuze on search engines, and it converts that web content into Morse code and represents the pattern of the code as light and beeps.
+
+---
+
+### Artist’s daily job
+
+URL: https://chenghsienyu.com/artists-daily-job/
+Date: 2021-06-29T10:54:38.561Z
+Tags: 2015, Works
+
+[ Artist’s daily job ]
+
+Brief:
+
+[ Artist’s daily job ] is an artwork in the form of an application form that has no ending and no submit button. Even when people try to finish the form, new fields on different topics keep appearing, so you can never finish it.
+
+It is a kind of metaphor for how artists might spend more time filling in applications than making artworks.
+
+---
+
+### Hobo
+
+URL: https://chenghsienyu.com/hobo/
+Date: 2021-06-29T09:08:41.212Z
+Tags: 2015, Works
+
+[ Hobo ]
+
+“Money to avoid being bothered”
+
+Brief:
+
+People sometimes give money to hobos just to avoid being bothered by them, without really caring about their lives and situations. [ Hobo ] is a robotic installation that tries to represent this theme in the metropolis. It chases visitors and makes loud noises to bother them unless they throw coins into the installation.
+
+---
+
+### Untitled: The result
+
+URL: https://chenghsienyu.com/untitled-the-result/
+Date: 2021-06-29T09:05:37.771Z
+Tags: 2016, Works
+
+[ Untitled: The result ]
+
+“ Light <-> Light ”
+
+Brief:
+
+[ Untitled: The result ] is an installation that transfers bio-energy into electric current. The installation will trigger a xenon flash light at intervals that depend on how active the oxidation is in those chambers. Each trigger will exhaust all of the power that has been harvested. The artist is trying to present the process of energy transformation, expressing natural light -> artificial light, and the difficulty of energy management.
+
+---
+
+### Others - Assimilator
+
+URL: https://chenghsienyu.com/others-assimilator/
+Date: 2021-06-24T10:24:54.530Z
+Tags: Assimilator, 2019
+
+Title：『 Portrait2020_2011re-edition 』
+
+“Crying behind you”,
+
+The installation is a robotic head. When there are people in the exhibition space, it will move and react with some facial expressions, but when there is no one in the space, it will bow its head and cry.
+
+In the beginning, around 2010, when thinking about artificial intelligence and robotic design, I wondered what would happen if I brought only one human emotion and behaviour into a simple mechanical object and found a way to intensify the emotion through a certain behaviour. So I brought crying into a robotic head and made it cry only when nobody is around.
+
+Happy, sad or strong emotions cause the biological behaviour of crying, but some people hide strong emotions from others and do not want them to be seen.
+
+開心、傷心或強烈情緒會讓人有哭泣的行爲，但有些人會將倔強、脆弱等多重情緒隱藏其後，不希望讓人看見背後深沉的一面，於是「在你背後哭泣」（Crying behind your back）成為這件作品最直觀的概念：展場中的機械人頭，會對觀眾產生細微的動作與表情的反應，但遇空無一人時，它便會低頭哭泣。
+
+2010年因思考人工智慧與機器人情緒認知的問題，於是嘗試賦予機械有了情緒，並且用人類哭泣的行為強化情緒動機。本作品集結2010年至今的系列實驗創作，並呼展覽空間的環境機能，類人體的循環系統流淌漫延於作品四周。
+
+Title：『 Invitation 』
+
+Year：2016
+
+Material：scripts, e-invitation
+
+Size：Size variable
+
+This work is similar to malware: it sends exhibition invitations that infect the recipient's computer. By hijacking the browser, it makes a simple infection screen appear on the invitee's computer from time to time, without affecting its daily use. It is a 2019 re-edition: because system and browser security is stronger nowadays, it differs from the original work.
+
+In the history of computing, viruses and malware have used extreme methods to force system monopolies to update their security and improve the system environment. But they have also been used by criminals as a method to steal confidential business and personal information. In the form of an exhibition invitation letter, the work uses the invitee's email client to generate itself.
+
+在電腦病毒史上，惡意軟體最初是以極端方式滲透電腦系統，威脅企業更新安全性及改善系統環境，因此也讓不肖份子作為竊取商業與個人機密資料的手段。挪用這樣的概念，〈Invitation〉作品類似惡意軟體，藉由發送展覽邀請函，受邀者開啟邀請函後，受邀者電腦將不定時出現感染畫面，但不影響其他使用功能。因系統與瀏覽器安全性的更新，本作品為2019年再製版。
+
+Title：『 What’s in the middle 』
+
+Year：2018
+
+Material：software, radio sniffing devices
+
+Size：Size variable
+
+The work intercepts network packets in different domains and networks, decodes them, and mixes the content of the packets to generate/render new content.
+
+With the internet as an extension of human perception, users surfing the internet in a certain area continuously send and receive network packets; this work keeps decoding these packets and converting them into a format that browsers can read. The users' digital footprints in a specific domain are revealed through "MITM" interception and the parsing of insecure packets, together with the error data produced by the hybrid imaging method and the forced dump of the packets. The result is visualized and displayed as an abstract image, so: "WHat's in the middle?"
+
+今日的網路作為現代人感知器官的延伸，在一定區域內的網路使用者會不斷發送、以及接收網路加密後的複雜資訊。作品〈What’s in the middle〉的發想由此而生，藉由解碼（decode）網路封包，並轉為瀏覽器可讀取的格式，將特定網域內的使用者足跡顯示給觀眾。這種由中間人攻擊(Man-in-the-middle attack）攔截與解析未加密封包的混合成像作法，強制轉儲（dump）加密封包而產生的錯誤資料，透過去視覺化與顯示較為抽象的圖像，我們將會在螢幕上看到什麼呢？（WHat’s in the middle?）
+
+---
+
+### Hijacker:{，} 
+
+URL: https://chenghsienyu.com/hijacker/
+Date: 2021-06-24T09:48:19.776Z
+Tags: Assimilator, Works, 2019
+
+作品名稱：『 Hijacker:{，} 』
+
+作品概述：
+
+我們只能藉由自己的想像，去理解與勾勒對方的夢境。
+
+〈Hijacker:{，}〉為2010年與荷蘭UMGC醫學中心（University of Medical Center Groningen）合作，觀察早產嬰兒腦部血液活動狀態而發想的創作。作品以「夢的照相機」為主要概念，運用機器學習（machine learning）重新轉換2010年因資料量判讀與其中結構高度複雜性而無法呈現的部分，延伸創造更多可能性。作品藉由賦予軟體程式特定的規則，讓腦波偵測機械真正具有「想像」的能力，藉由合成「夢境圖像」、做夢者腦波所產生的關鍵字資料，與做夢者記憶相互比較，讓第三方得以進一步探究他人的夢境，達到替做夢者想像出可能、或相似的夢境場景。
+
+Title:『 Hijacker:{，} 』
+
+Year: 2019
+
+Material: EEG cap, EEG sensors, f/NIRS sensor, customized software, dataset
+
+Size: size variable, frame size 50(H)cm * 50(W)cm
+
+“We can only use our imagination to understand and sketch out other people's dreams.”
+
+"Hijacker: {,}" is a concept that was conceived when we monitored blood activity in the brains of premature babies in cooperation with UMCG (University Medical Center Groningen) in 2010.
+
+At that time, some parts could not be realized because the amount of data and the design of its structure were too complex. This time, machine learning has been brought into the work to redesign and simplify the data-collection process, making it easier and more flexible and creating more possibilities.
+
+By assigning certain rules to the software, the work can imagine possible or similar dream scenes for dreamers. Symbolically, the main concept is a “camera for dreams” that interprets the imagination given to the machine.
+
+The work synthesizes dream images, and the keywords that the software generates from the brain-activity dataset are compared with the dreamer's own text description.
+
+Basic procedure:
+
+Dataset (Daily){set and categorized by image and keyword} ->
+
+Dataset (sleep){collected based on EEG & NIRS} ->
+
+Compare and re-categorize by machine learning -> pick up keywords <-> compose sentence by ML <-> parsing images and train new dataset<-> get image composition by cocoapi -> generate image.
+
+---
+
+### Discharge what you charged
+
+URL: https://chenghsienyu.com/discharge-what-you-charged/
+Date: 2021-06-11T13:31:43.137Z
+Tags: Assimilator, Works, 2019
+
+Title: Discharge what you charged
+
+This work is an electromechanical cube. There is a mechanical structure above the square pillar, and the lid is usually open. When visitors approach the work, it displays a message inviting them to place their mobile phones on the platform. After the audience place their mobile phones on the platform, the lid will close and it will remain locked for 15 ~ 20 minutes. During this time, the device will discharge the audience’s mobile phones until the batteries are almost empty. The lid will then open and sound an alarm to notify the audience, reminding them to retrieve their phones.
+
+The installation creates 15 to 20 minutes of peaceful time to isolate the audience from mobile phones, which have become an essential gadget of everyday life.
+
+On average, a person spends more than 4 hours a day looking at, listening to and using a smartphone, and people are increasingly attached to their phones. This work attempts to invite or force the audience to briefly part ways with their daily essential, the mobile phone, for 15 to 20 minutes.
+
+作品名稱:『 Discharge what you charged 』年份:2019媒材:金屬機構、冷凍設備、自製OTG USB硬體裝置、LCD顯示器 尺寸:尺寸可變
+
+作品概述:
+
+每人消耗在手機的時間不斷上升，平均一天會花4小時以上使用手機，人類對 於手機的依賴〈Discharge what you charged〉作品企圖用邀請或強制的方 式，讓觀眾與日常生活必需品—手機「短暫分離」。
+
+當觀眾接近160公分的正方柱體，上方掀蓋的機械結構會自動顯示文字，邀請 觀眾將手機放置於平台，一旦手機置入平台，上蓋會閉合15~20分鐘，手機將 於裝置內放電(休息)至關機，直到平台發出通知警報，提醒觀眾取回手機，製 造意料之外的「空白」時光。
+
+---
+
+### Game of Life
+
+URL: https://chenghsienyu.com/game-of-life/
+Date: 2021-06-11T13:31:00.231Z
+Tags: Works, 2021
+
+生命遊戲 game of life 機器手臂將不斷將生命遊戲的演化產生圖形畫在展場的玻璃上，同時也將把演化中死 去的細胞，塗抹擦掉。觀眾在玻璃窗外除了看到精密的手臂，不帶情緒地，持續將演 算規則下生物濃湯中的數位生命，塗繪記錄誕生，抹掉擦去死亡的圖形!
+
+---
+
+### We are just saying what you are ruling
+
+URL: https://chenghsienyu.com/we-are-just-saying-what-you-are-ruling/
+Date: 2021-06-11T13:29:45.056Z
+Tags: Works, 2020
+
+作品名稱:『我們正在談論你是如何統治』
+
+『我們正在談論你是如何統治』
+
+運用網路搜尋圖像與「機器學習」(Machine Learning)方式創作，大量即時抓取「人類破壞生態」關鍵字圖像，以第一人稱、也就是電腦以「我」譴責人類因開發、浪費、 貪婪而導致生態滅絕的圖像投影與字句，可怕的是，電腦經由「自主學習」並「增強更新」演算法與數據分析做出準確預測而逐漸成為「全知者」，多數人類乃至國家逐 漸無法操控數據反而被數據操控，並藉由特意使機器學習模型辨識錯誤，軟體會將污染與環境破壞圖像形容為美好的日常事物。
+
+(We are just saying what you are ruling)
+
+We are just saying what you are ruling, created by using internet image searches and Machine Learning, captures vast quantities of images using “human ecological destruction” as keywords, and condemns ecological extinction caused by human greed, waste, and development where the computer uses the first-person pronoun “I”. What is terrifying is that through the algorithms and data analysis of autonomous learning and update enhancements, the computer begins to make accurate predictions and gradually becomes “omniscient”. Most human beings as well as entire nations become unable to control data, but are instead controlled by data. Of course, the fate of many animals is bound up with national politics.
+
+---
+
+### discharge what you charged: room edition
+
+URL: https://chenghsienyu.com/discharge-what-you-charged-room-edition/
+Date: 2021-06-11T13:28:03.875Z
+Tags: 2020, Works, injector_after_Null
+
+作品名稱:『discharged what you charged: room edition』
+
+Title: discharge what you charged: room edition Year: 2020 Medium: metal sheets, cooling components, customized OTG USB, glass room Size: dimensions variable
+
+作品概述:
+
+Description: 個展「同化者:Assimilator」中的作品，藉由重新更新，由剝奪現代人日常生活所必須的行動通訊裝置與限制人在一定時間內的自由去增加觀眾對於感官與對於時間認知的體會，以強化觀者對於時間與空間的存在性。
+
+The artist revises his own work previously on show in the solo exhibition entitled ‘Assimilator’. By depriving the audience of both mobile devices of communication—generally understood to be essential in modern daily life—and freedom for a certain period of time, the installation enhances and reorients the viewer’s cognition towards a more direct experience of time and space.
+
+Discharge What You Charged: Room Edition
+
+Title: Discharge what you charged: room editionYear: 2020Medium: Metal sheets, cooling components, customized OTG USB, exhibition entrance/exitSize: Dimensions variable
+
+Description
+
+This work is an expanded version of the original "Discharge what you charged" (2019), reimagined for the solo exhibition "Assimilator." The installation features a glass room that becomes both the artwork's container and its mechanism of control.
+
+When visitors enter the exhibition and place their mobile phones on the designated platform at the entrance/exit, the installation activates a dual process of deprivation: the device begins draining their phone's battery while simultaneously locking the exhibition entrance/exit door, trapping the visitors inside for 15-20 minutes.
+
+During this enforced period of confinement, visitors are stripped of both their primary means of digital communication and their physical freedom to leave the exhibition space. The locked entrance/exit creates a controlled environment where visitors must remain within the exhibition while their phones slowly discharge within the installation.
+
+The work creates an intensified experience of temporal and spatial awareness by removing the two things modern individuals rely on most: constant connectivity and unrestricted mobility. Only when the phones are nearly drained does the entrance/exit unlock, releasing both the devices and their owners back into the world.
+
+By depriving the audience of mobile devices of communication—generally understood to be essential in modern daily life—and restricting their freedom for a certain period of time, the installation enhances and reorients the viewer's cognition towards a more direct experience of time and space. The work forces a confrontation with our dependencies while creating unexpected moments of stillness and reflection within the confined exhibition space.
+
+---
+
+### invariable variation
+
+URL: https://chenghsienyu.com/invariable-variation/
+Date: 2021-06-09T12:22:12.486Z
+Tags: 2020, Works, injector_after_Null
+
+作品名稱:『invariable variation』
+
+Title: invariable variationYear: 2020Medium: robotic platform, cube, camera, software, electronic circuitSize: dimensions variable
+
+作品概述:
+
+Description:
+
+恆定中的變化，賦予機械特定行為，因為人的觀看而不變動，而當人不去觀看裝置 時，裝置才會產生一定的變動性。
+
+This installation is endowed with a specific pattern of mechanical movements, activated by an invariable variation. It remains still while watched; it shows a certain variability while ignored.
+
+---
+
+### de centralize
+
+URL: https://chenghsienyu.com/de-centralize/
+Date: 2021-06-09T11:44:24.356Z
+Tags: 2020, Works, injector_after_Null
+
+作品名稱:『de centralize』
+
+Title: de centralize Year: 2020 Medium: air control unit, fog/mist machine, software, electronic circuit Size: dimensions variable
+
+作品概述:
+
+Description:
+
+在煙霧所形成的空間中，以不斷的變動性為出發，以電腦視覺與區塊式的加密方式去產生資料，再將資料的產生視覺或是聽覺化，以迴圈 (loop)與回饋(feedback)這種比較古典的方式去產生一個恆定的變動性，去凸顯或是討論人類所建構的網路世界、或是自然界中，所謂 共識主動性(Stigmergy)的機制。
+
+In a foggy space of constant transformation, the information generated by blockchain encryption and computer vision is visualized or auralized. The relatively classical method of creating such an invariant variability by means of loop and feedback techniques is designed to foreground or reconsider the so-called mechanism of stigmergy in nature or in the cyber world created by human beings.
+
+---
+
+### Sandbox
+
+URL: https://chenghsienyu.com/sandbox/
+Date: 2017-06-24T08:47:00.000Z
+Tags: 2016, Works, injector_after_Null, injector_before_Null
+
+[ Sandbox ] - injector before_null
+
+“ Radio has been always there before we discover it, just like the
+
+matters do not exist before we define them. ”
+
+Brief description -
+
+[ Sandbox ] is a piece of work originating from Injector, the artist’s ongoing project, aiming to bestow machines with imaginative minds. How do people use their imagination to picture these artworks in their minds from text alone? In the exhibition room deliberately left blank, this work uses SMS messages to introduce a couple of absent artworks, and thereby encourages the viewers to imagine them. All the artworks mentioned involve something that people believe exists but have no way to prove. This work thus reflects the fact that some things have always been there long before we discover and utilize them, yet they do not exist before we can imagine and define them.
+
+Examples of SMS messages:
+
+Hi, welcome to *****. Did you see the small installation that presents someone praying to God next to the entrance?
+
+I am sure you have seen many wonderful art pieces in this exhibition; now it is time to feel something different.
+
+Did you see the painting hanging on the wall? It is about alien abduction.
+
+There is a man who always tries to stay away from you. Who is he?
+
+Next to the elevator maze, did you see the kinetic installation which presents Time, Space, and Gravity between infinitely small particles inside our universe?
+
+Things have always been there before we discover them, just as they do not exist before we define them.
+
+Please walk to the passageway. You will see a ferrofluid work hanging on the wall that shows you the near future as an organic sculpture.
+
+Please grab a drink, go up to someone and pay attention to her eyes. You will see what a beautiful pattern the human eye has.
+
+Close to the passageway, you will see a painting that contains microbes, bacteria growing on the canvas.
+
+Do you like emojis? I would really like to send you an emoji that looks like ?ω?.
+
+Hi!
+
+Are you still around?
+
+I am waiting for you outside, in front of the museum.
+
+---
+
+### Second Life: Habitat
+
+URL: https://chenghsienyu.com/second-life-habitat/
+Date: 2016-06-29T08:24:00.000Z
+Tags: 2016, Solo Exhibition, Solo Exhibitions, Works
+
+Second Life : Habitat   棲息地
+
+張碩尹TingTong Chang X  鄭先喻HsienYu Cheng
+
+本計畫特別與台灣大學昆蟲系黃榮南教授合作，在一自我封閉的循環系統之內，鄭先喻與張碩尹在大型玻璃缸內繁殖上千隻白線斑紋．透過實驗室流程與配備，缸內具備完整的生存條件：幼蟲從孑孓培育到成蛹、羽化，成蟲在玻璃缸內飛舞，最後在捕蚊燈下結束生命週期。捕蚊燈連接電子程式，將蚊子「真實生命」轉換成電子訊號，成為電子遊戲（Second Life）中的「虛擬生命」。這些分身具備人類外型，在虛擬世界中開展新的生命週期：吃、喝、睡與遊走，供觀眾自由操縱，並在一定時間內死亡。藝術家於展期間每兩週捐血兩百克，每個遊戲角色的死亡，將啟動點滴瓶中血液流入裝置中，以提供雌蚊產育下一代的養分。本計劃透過與觀眾「遊戲」的過程，探討當代生命的意義，並表現數位科技為死亡意涵所帶來本質性的轉變，與「遊戲」在人類行為/決策、與生態環境等不同層面上的角色。
+
+The installation consists of a breeding chamber in which thousands of mosquitoes are bred during the exhibition. The mosquitoes go through all stages of their lifecycle until their life is ended by a bug zapper. Each dead mosquito generates an electrical signal that the computer system converts into an avatar. These computer-generated avatars then become virtual human beings, whose activity in virtual space can be controlled by the audience. Every time the avatar’s life is automatically terminated by the system, the ‘food’ (blood donated by the artists) for the mosquitoes is released from the blood feeder to which a transfusion device is connected. In this way, the dead provide nutrition for the next generation of mosquitoes, and life, avatar, energy and electrical signal form a complete cycle. Through the work, the artists examine the meaning of life in the digital era.
+
+Collaborator: Prof. Huang Rong-Nan, National Taiwan University – Department of Entomology
+
+BIOGRAPHY OF THE ARTIST/S
+
+Hsien-Yu Cheng (TW) explores the relationship between human behavior, emotion, software and machine. He tries to bring out the meaning of life through works filled with his own observations of, and feelings toward, society and the environment. He focuses on bioelectronic research, intelligent sound and the development of creative art tools.
+
+http://chenghsienyu.com/
+
+Ting-Tong Chang (TW) received his MFA at Goldsmiths, University of London, and has exhibited internationally. Chang’s major awards include the 19th Taishin Arts Award, Taipei Art Award 2020, Hong Kong Art Central RISE Award 2016 and others. His works can be found in public and private collections in Europe and Asia.
+
+https://www.tingtongchang.co.uk/

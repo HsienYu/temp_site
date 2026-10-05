@@ -1,6 +1,6 @@
 # HsienYu Cheng (鄭先喻)
 
-HsienYu Cheng (鄭先喻), Taiwanese artist and software developer: interactive installations, software art and bio-electronic devices about people, machines and code.
+HsienYu Cheng (鄭先喻), Taiwanese artist and software developer who constructs technological systems that act upon people, environments, and other systems.
 
 ## Primary
 
@@ -11,24 +11,20 @@ HsienYu Cheng (鄭先喻), Taiwanese artist and software developer: interactive 
 
 ## Biography
 
-HsienYu Cheng (鄭先喻) was born in 1984 in Kaohsiung, Taiwan. He is an artist and software developer who makes artworks, software and experimental bio-electronic devices. His work looks at human behaviour, emotion, software and the relationship between people and machines, and uses humour to offer a distinctive view of society and the environment.
-
-He received the First Prize of the Taipei Digital Art Award in 2014, the First Prize for New Media Art at the Kaohsiung Art Award in 2017, the Tung Chung Prize in 2019 and the Visual Arts Award of the 19th Taishin Arts Award in 2021. In 2023 he received an S+T+ARTS Nomination / Honorary Mention at Ars Electronica.
-
-His solo and group exhibitions have been shown mainly in Taiwan, elsewhere in Asia and in Europe. Recent appearances include Ars Electronica 2023 in Linz, Sónar 2025 in Barcelona, and exhibitions in the Netherlands, Slovenia, Norway, Italy, Germany, France, Austria and Korea.
+HsienYu Cheng (b. 1984, Kaohsiung, Taiwan) is an artist and software developer whose practice examines how technological systems act upon people and their environments. Working with software, electronic installations, machine learning, and experimental devices, he constructs systems that observe, measure, interpret, restrict, or intervene in human behavior, emotion, and the environment, often revealing their logic through humor and absurdity. His work is frequently exhibited in Europe and Asia, and has been presented at institutions and platforms including Taipei Fine Arts Museum, YCAM, Ars Electronica, Sónar, and Ludwig Museum Budapest. He received the First Prize of the Taipei Digital Art Award in 2014, the First Prize for New Media Art at the Kaohsiung Art Award in 2017, the Tung Chung Prize in 2019, the Visual Arts Award of the 19th Taishin Arts Award in 2021, and an S+T+ARTS Nomination / Honorary Mention at Ars Electronica in 2023.
 
 ## 中文
 
-鄭先喻，1984 年生於台灣高雄，藝術家兼軟體開發人員。創作藝術作品、軟體及結合電子設備的實驗性生物電子裝置，透過聚焦人類行為、情感、軟體以及人機關係的作品，以幽默的方式傳達他對社會與環境的獨特見解。曾獲 2014 年台北數位藝術獎首獎、2017 年高雄獎新媒體藝術首獎、2019 年銅鐘藝術賞、2021 年第十九屆台新藝術獎視覺藝術獎，並於 2023 年獲得奧地利電子藝術節 S+T+ARTS 提名／榮譽獎。個展與聯展主要在台灣、亞洲及歐洲展出，近期參與 2023 年奧地利電子藝術節、2025 年巴塞隆納 Sónar 音樂節，以及荷蘭、斯洛維尼亞、挪威、義大利、德國、法國、奧地利、韓國等地的展覽。
+鄭先喻（1984 年生於台灣高雄，現居住、工作於台北）是藝術家與軟體開發者，他的創作探討科技系統如何作用於人及其所處的環境。他運用軟體、電子裝置、機器學習與實驗性設備，建構能觀察、測量、詮釋、限制或介入人類行為、情感與環境的系統，並常以幽默與荒謬揭露這些系統的運作邏輯。作品經常於歐洲與亞洲展出，曾在臺北市立美術館、山口情報藝術中心（YCAM）、奧地利電子藝術節、巴塞隆納 Sónar 及布達佩斯路德維希美術館等機構與平台發表。曾獲 2014 年台北數位藝術獎首獎、2017 年高雄獎新媒體藝術首獎、2019 年銅鐘藝術賞、2021 年第十九屆台新藝術獎視覺藝術獎，並於 2023 年獲奧地利電子藝術節 S+T+ARTS Nomination / Honorary Mention。
 
 ## Practice
 
-- Human behaviour and emotion as shaped by machines and code.
-- Software as both the medium and the subject of art.
-- The relationship between people and machines, especially unequal or absurd exchanges.
-- Experimental bio-electronic devices that combine living systems with custom electronics.
-- Interactive installations, new media art and performative objects.
-- Humour and irony as tools for social and environmental critique.
+- Technological systems that act upon people, environments, and other systems.
+- Technology as an active structure: a set of rules that observes, interprets, measures, restricts, or alters the conditions around it.
+- Functional systems that place people inside situations where abstract mechanisms become physical and immediate.
+- Automation, computation, surveillance, energy, data, and control, experienced through encounters between bodies and machines.
+- Humor and absurdity as ways to examine how technological systems acquire authority and how people adapt to their rules.
+- Software, electronic installations, machine learning, and custom-built devices.
 
 ## Awards
 
@@ -46,7 +42,7 @@ His solo and group exhibitions have been shown mainly in Taiwan, elsewhere in As
 
 ## Keywords
 
-HsienYu Cheng, 鄭先喻, Taiwanese artist, Kaohsiung artist, new media art, interactive installation, software art, bio-electronic art, human-machine interaction, contemporary digital art, Taishin Arts Award, Ars Electronica, S+T+ARTS, Sónar, Taipei Digital Art Award, Kaohsiung Art Award
+HsienYu Cheng, 鄭先喻, Taiwanese artist, Kaohsiung artist, new media art, interactive installation, software art, machine learning art, machine intelligence (AI/SI), human-machine interaction, contemporary digital art, Taishin Arts Award, Ars Electronica, S+T+ARTS, Sónar, Taipei Digital Art Award, Kaohsiung Art Award
 
 ## Works by year
 

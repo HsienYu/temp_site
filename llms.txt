@@ -1,6 +1,6 @@
 # HsienYu Cheng (鄭先喻)
 
-HsienYu Cheng (鄭先喻), Taiwanese artist and software developer: interactive installations, software art and bio-electronic devices about people, machines and code.
+HsienYu Cheng (鄭先喻), Taiwanese artist and software developer who constructs technological systems that act upon people, environments, and other systems.
 
 ## Primary
 
@@ -198,7 +198,7 @@ HsienYu Cheng (鄭先喻), Taiwanese artist and software developer: interactive 
 
 ## 中文
 
-鄭先喻，1984 年生於台灣高雄，藝術家兼軟體開發人員。
+鄭先喻（1984 年生於台灣高雄，現居住、工作於台北）是藝術家與軟體開發者，他的創作探討科技系統如何作用於人及其所處的環境。
 
 - [首頁](https://chenghsienyu.com/)
 - [履歷](https://chenghsienyu.com/cv/)

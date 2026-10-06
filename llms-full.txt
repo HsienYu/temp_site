@@ -68,7 +68,7 @@ HsienYu Cheng, 鄭先喻, Taiwanese artist, Kaohsiung artist, new media art, int
 - [don't know... what do you think?](https://chenghsienyu.com/dont-know-what-do-you-think/)
 
 ### 2021
-- [證件照拍攝指南](https://chenghsienyu.com/photo-of-id/)
+- [Photo of ID - 證件照拍攝指南](https://chenghsienyu.com/photo-of-id/)
 - [Revenge Scenes](https://chenghsienyu.com/revenge-scenes/)
 - [Game of Life](https://chenghsienyu.com/game-of-life/)
 - [Crystal Seeding](https://chenghsienyu.com/crystal-seeding/)
@@ -600,7 +600,7 @@ don't know... what do you think?
 
 ---
 
-### 證件照拍攝指南
+### Photo of ID - 證件照拍攝指南
 
 URL: https://chenghsienyu.com/photo-of-id/
 Date: 2021-06-29T13:02:27.102Z

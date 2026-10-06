@@ -47,7 +47,7 @@ HsienYu Cheng (鄭先喻), Taiwanese artist and software developer who construct
 - [don't know... what do you think?](https://chenghsienyu.com/dont-know-what-do-you-think/)
 
 ### 2021
-- [證件照拍攝指南](https://chenghsienyu.com/photo-of-id/)
+- [Photo of ID - 證件照拍攝指南](https://chenghsienyu.com/photo-of-id/)
 - [Revenge Scenes](https://chenghsienyu.com/revenge-scenes/)
 - [Game of Life](https://chenghsienyu.com/game-of-life/)
 - [Crystal Seeding](https://chenghsienyu.com/crystal-seeding/)
@@ -177,7 +177,7 @@ HsienYu Cheng (鄭先喻), Taiwanese artist and software developer who construct
 - [Minimal Input @ C-lab](https://chenghsienyu.com/minimal-input-c-lab.md)
 - [MissionFailed](https://chenghsienyu.com/missionfailed.md)
 - [Others - Assimilator](https://chenghsienyu.com/others-assimilator.md)
-- [證件照拍攝指南](https://chenghsienyu.com/photo-of-id.md)
+- [Photo of ID - 證件照拍攝指南](https://chenghsienyu.com/photo-of-id.md)
 - [portrait 2011](https://chenghsienyu.com/portrait-2011.md)
 - [portrait 2013 - Douglas Engelbart](https://chenghsienyu.com/portrait-2013-douglas-engelbart.md)
 - [portrait 2014](https://chenghsienyu.com/portrait-2014.md)

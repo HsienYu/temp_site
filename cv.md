@@ -63,6 +63,18 @@ HsienYu Cheng (b. 1984, Kaohsiung, Taiwan) is an artist and software developer w
 
 **Group Exhibitions**
 
+2026
+
+“Gray Autonomous Entity”, Taipei Digital Art Festival, Taipei Collectible Botanical Garden, Taipei, Taiwan
+
+“Désobéir à l'ère numérique”, Biennale des Imaginaires Numériques, Friche la Belle de Mai, Marseille, France
+
+“Time N Space”, Center for Art and Technology, Taipei National University of the Arts, Taipei, Taiwan
+
+“Instance Dungeons: Gray Zone”, Taiwan Pavilion, 16th Gwangju Biennale, Asia Culture Center, Gwangju, South Korea
+
+“Vroom Vroom: A Total Story” (Guest Artist), Art Hub Copenhagen, Copenhagen, Denmark
+
 2025
 
 “There is another capital beneath the wave + Crystal Seeding”, YPAM, KAAT & Tokyo University of the Arts, Yokohama, Japan
@@ -370,6 +382,18 @@ Taipei Digital Art Award, First Prize
 “Colloector Ver.1.0.0 收集者”, TamtamArtTaipei, 臺北, 臺灣
 
 **聯展**
+
+2026
+
+“灰色自動體”, 臺北數位藝術節, 臺北典藏植物園, 臺北, 臺灣
+
+“Désobéir à l'ère numérique”, Biennale des Imaginaires Numériques, Friche la Belle de Mai, 馬賽, 法國
+
+“時間．空間．Ｎ次元”, 國立臺北藝術大學藝術與科技中心, 臺北, 臺灣
+
+“無限副本：灰色地帶”, 第16屆光州雙年展臺灣館, 國立亞洲文化殿堂, 光州, 韓國
+
+“Vroom Vroom: A Total Story（客座藝術家）”, Art Hub Copenhagen, 哥本哈根, 丹麥
 
 2025
 
